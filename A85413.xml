@@ -1,0 +1,2055 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Right and might well met. Or, A briefe and unpartiall enquiry into the late and present proceedings of the Army under the command of His Excellency the Lord Fairfax. Wherein the equity and regularnesse of the said proceedings are demonstratively vindicated upon undeniable principles, as well of reason, as religion. Together with satisfactory answers to all materiall objections against them. / By John Goodwin.</title>
+            <author>Goodwin, John, 1594?-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 127 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85413</idno>
+            <idno type="STC">Wing G1200A</idno>
+            <idno type="STC">Thomason E536_28</idno>
+            <idno type="STC">ESTC R188135</idno>
+            <idno type="EEBO-CITATION">99862595</idno>
+            <idno type="PROQUEST">99862595</idno>
+            <idno type="VID">114758</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85413)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114758)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E536[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Right and might well met. Or, A briefe and unpartiall enquiry into the late and present proceedings of the Army under the command of His Excellency the Lord Fairfax. Wherein the equity and regularnesse of the said proceedings are demonstratively vindicated upon undeniable principles, as well of reason, as religion. Together with satisfactory answers to all materiall objections against them. / By John Goodwin.</title>
+                  <author>Goodwin, John, 1594?-1665.</author>
+               </titleStmt>
+               <extent>[4], 44 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons, for Henery Cripps in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The dedication was printed as F4.</note>
+                  <note>With errata on F3v. Variant: lacking errata.</note>
+                  <note>Annotation on Thomason copy: "Jan: 2d.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114758:1" rendition="simple:additions"/>
+            <p>RIGHT
+And MIGHT well met,
+OR,
+A briefe and unpartiall enquiry
+into the late and preſent proceedings
+of the Army under the Command of His
+EXCELLENCY the LORD
+FAIRFAX.</p>
+            <p>Wherein the equity and regularneſſe of the ſaid
+proceedings are demonſtratively vindicated up<g ref="char:EOLhyphen"/>on
+undeniable Principles, as well of Rea<g ref="char:EOLhyphen"/>ſon,
+as RELIGION.</p>
+            <p>TOGETHER
+With ſatisfactory Anſwers to all materiall Ob<g ref="char:EOLhyphen"/>jections
+againſt them.</p>
+            <p>By JOHN GOODWIN.</p>
+            <q>
+               <p>Judge not according to the appearance, but judge righteous judge<g ref="char:EOLhyphen"/>ment,</p>
+               <bibl>John 7. 24.</bibl>
+            </q>
+            <q>
+               <p>He that juſtifieth the wicked, and hee that condemneth the juſt, e<g ref="char:EOLhyphen"/>ven
+they both are abhomination unto the Lord,</p>
+               <bibl>Prov. 17. 15.</bibl>
+            </q>
+            <q>
+               <p>Plus togae laeſere Rem-publicam, quàm loricae,</p> 
+               <bibl>Tertul.</bibl>
+            </q>
+            <q>
+               <p>Neceſſitas, quae cogit, excuſat.</p> 
+               <bibl>Sen.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi>
+Printed by <hi>Matthew Simmons,</hi> for <hi>Henery Cripps</hi> in
+Popes-head Alley, 1648.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:114758:2"/>
+            <pb facs="tcp:114758:2"/>
+            <head>TO HIS
+EXCELLENCY
+THE LORD
+FAIRFAX,
+And his Honourable Councell at
+Warres,</head>
+            <p>
+               <seg rend="decorInit">I</seg> make no queſtion but your EXCELLENCY,
+and Honourable Councell; have, without putting
+any ſtumbling-block of iniquity before your faces, con<g ref="char:EOLhyphen"/>ſulted
+all Oracles of Conſcience &amp; Honour, about your
+preſent, and late procedings, before you lifted up an
+hand unto them. The cleerneſſe and integritie of your
+hearts herein, cannot (I preſume) but laugh to ſcorne
+all the hard ſayings, and clamorous imputations of men, who<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ot the
+knowledge of Truth,<note place="margin">Facundum ſa<g ref="char:EOLhyphen"/>ciebat amor.</note> but love to themſelves; makes eloquent i<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diclaim<g ref="char:EOLhyphen"/>ing
+againſt you. The import of your actions ſtanding in full <hi>conjuncti<g ref="char:EOLunhyphen"/>on</hi>
+with that great and publique Intereſt of the Kingdome, muſt needes
+carry in it an <hi>oppoſition</hi> to the irregular and by intereſts of ſuch men,
+who feare that they muſt <hi>ſcatter,</hi> if the Kingdom once begins to <hi>gather.</hi>
+And it need not ſeem at all ſtrange to you, that men of wit and parts
+otherwiſe, having the advance of ſuch an <hi>antiperiſtaſis,</hi> as the tenour of
+your proceedings accommodates them with,<note place="margin">Grande dolo<g ref="char:EOLhyphen"/>ris ingenium eſt.</note> ſhould be able to miſfigure the
+liberall and ingenous face of your actions into an abſolute deformity.
+There is no heart of Oake, or other timber, though never ſo ſound, but
+that a cunning Painter, eſpecially under ſome particular elevation of
+fancy for ſuch a worke, will put into a colour of rottenneſſe, and make it
+looke as if it were ſtark naught. That the glorious worke of <hi>caſting
+<pb facs="tcp:114758:3"/>
+out Devils by the finger of God,</hi> was repreſented unto the people under
+the notion of as vile and hatefull an action, as lightly can be imagined;
+no better, then a working by <hi>Belzebub the cheife of the Devils.</hi> But the
+beſt is, that they that ſpeake evil of worthy actions, double their reward
+in heaven.</p>
+            <p>Hearing and obſerving the tongues of your enemies hard at worke on
+every ſide, in making your ſweet things, bitter, your ſmooth things, rough,
+and your ſtreight things, crooked, in the imaginations of men, I betooke
+my ſelfe to my Pen to Counter-worke them, what I may, by reſolving
+your actions into their proper and cleere principles of righteouſneſſe and
+honour. If I had onely the reaſons and judgments of men to encounter,
+I ſhould not queſtion a conqueſt by ſatisfaction; but when mens judge<g ref="char:EOLhyphen"/>ments
+are ſteel'd with intereſt and affection, force of reaſon and dint of
+argument, prove (for the moſt part) but like arrowes ſhot againſt a wall
+of braſſe. The Holy Ghoſt takes ſpeciall notice, that the <hi>Phariſees, be<g ref="char:EOLhyphen"/>ing
+covetous,</hi>
+               <note place="margin">Lu. 16. 14.</note> 
+               <hi>derided</hi> our Saviour, notwithſtanding his moſt heavenly
+and convincing Doctrine and diſcourſe againſt that ſin.</p>
+            <p>I make bold with your Names for countenance to theſe papers, and
+humbly preſent them unto your hand, not to informe you of the righteouſ<g ref="char:EOLhyphen"/>neſſe
+of your Actions (wherein I doubt not but you were ſatisfied from
+Heaven, before they were in being) but partly to obtaine the ſafer conduct
+for them to paſſe abroad, and partly to account with you for thoſe reſpects
+of honour which are, and have bin long due unto you from</p>
+            <closer>
+               <signed>Your Faithful Servant in the Lord<lb/>
+JOHN GOODWIN.</signed>
+               <dateline>From my Study <date>
+                     <hi>Jan.</hi> 1.
+1648.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:114758:3"/>
+            <head>Right and might
+Well mett.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the children of prey, and men lately
+under hope of dividing the ſpoile of this
+miſerable Kingdome, when it ſhould be
+reduced under the iron rod of enſlaving
+tyranny and oppreſſion (betweene which
+ſad condition, and it, there was now but
+a ſtep) ſhould riſe up with paſſionate out<g ref="char:EOLhyphen"/>cries,
+and be ready to curſe the Armie
+and their late proceedings, with bell, booke, and candle, is no
+matter of wonder, or much obſervation. But if the body of the
+people of the Land, or ſuch who have no minde to be gratified
+with the ſorrows or ſighings of innocent men, ſhould profeſſe a<g ref="char:EOLhyphen"/>ny
+diſſatisfaction, or ſtond in conſcience about the lawfulneſſe
+or juſtneſſe of ſuch their engagements; it would argue, either
+firſt, that they alwayes lived not onely free from oppreſſion, but
+from the fear of it alſo, &amp; ſo never had occaſion to enquire, either
+upon what grounds, and by what means, oppreſſion imminent
+may lawfully be prevented, or incumbent, be ſhaken off and ſup<g ref="char:EOLhyphen"/>preſſed;
+or elſe, in caſe they have ſuffered under oppreſſion, that
+they never ſaw any viſible or probable meanes of deliverance, and
+ſo wanted an inviting opportunity to conſider, whether theſe
+meanes might lawfully be improved in order to ſuch an end, or
+no. For certainely the grounds and principles upon which the
+ſaid proceedings of the Army ſtand cleare and juſtifiable, are no
+parables, no darke, or diſputable notions, or conceptions, but
+ſuch, wherein even <hi>he that runneth, may read</hi> equity and truth; and
+<pb n="2" facs="tcp:114758:4"/>
+which have been aſſerted for ſuch, by grave, learned, and judici<g ref="char:EOLhyphen"/>ous
+men, who <hi>neither lent, nor tooke upon uſury;</hi> I meane, who
+were no wayes intereſted in any ſuch concernment, or caſe, as that
+now upon tryall.</p>
+            <p>Though ſome other things have been of late acted by the Ar<g ref="char:EOLhyphen"/>mie,<note place="margin">Sect. 2.</note>
+wherein many pretendingly complaine of want of conſci<g ref="char:EOLhyphen"/>ence
+and juſtice; yet I ſuppoſe they have done nothing, either
+more obnoxious to the clamorous tongues and pens of their ad<g ref="char:EOLhyphen"/>verſaries,
+or more queſtionable in the judgements and conſcien<g ref="char:EOLhyphen"/>ces
+of their friends, then that late garbling of the Parliament,
+wherein they ſifted out much of the droſſe and ſoile of that heap,
+intending to reduce this body, upon the regular motion whereof,
+the wel being, indeed, the (civill) life of the whole Kingdome de<g ref="char:EOLhyphen"/>pends,
+to ſuch members, who had not manifeſtly turn'd head
+upon their truſt, nor given the right hand of fellowſhip to that
+moſt barbarous, inhumane, and bloody faction amongſt us,
+who for many yeares laſt paſt have with reſtleſſe endeavours pro<g ref="char:EOLhyphen"/>cured
+the deepe trouble, and attempted the abſolute enſlaving,
+(which is, being interpreted, the utter undoing) of the Nation.
+So that if this action of theirs ſhall approve it ſelfe, and appear to
+be regular and conformable to ſuch lawes, and rules of juſtice,
+which all conſidering and diſingaged men conclude ought to be
+followed and obſerved in ſuch caſes, as that which lay before
+them; eſpecially if it ſhall appeare to have been the legitimate iſſue
+of true worth and Chriſtianity; I preſume all their other actions
+of like tenor and import, will partake of the ſame juſtification, and
+honour, with it.</p>
+            <p>Let us firſt take into conſideration the ſubſtance of ſuch excep<g ref="char:EOLhyphen"/>tions,<note place="margin">Sect. 3.</note>
+which can with any pretence of reaſon, or colour of con<g ref="char:EOLhyphen"/>ſcience
+be levyed againſt the lawfulneſſe of it; Afterwards if it be
+needful, we will conſider further, whether thoſe that be with it,
+be not more, or at leaſt more weighty and conſiderable, then
+thoſe that are againſt it.</p>
+            <p>The firſt-born of the ſtrength of thoſe, who condemn the ſaid
+act of the Armie, as unlawful, lyeth in this; that the Actors had
+no ſufficient authority to doe what they did therein, but acted
+out of their ſphere, and ſo became tranſgreſſors of that Law,
+which commandeth every man to keepe order, and within the
+compaſſe of his calling.</p>
+            <p>
+               <pb n="3" facs="tcp:114758:4"/>
+To this I anſwer 1.<note place="margin">Sect. 4.</note> as our Saviour ſaith, <hi>that the Sabbath was
+made for man</hi> (1. for the benefit of man) <hi>and not man for the Sab<g ref="char:EOLhyphen"/>bath</hi>
+               <note n="a" place="margin">Mar. 2. 27.</note>; ſo certain it is, that callings were made for men, and not
+men for callings. Therefore as the law of the <hi>Sabbath,</hi> though e<g ref="char:EOLhyphen"/>nacted
+by God, was of right, and according to the intention
+of the great Law-giver himſelfe, to give place to the neceſſary ac<g ref="char:EOLhyphen"/>commodations
+of men, and ought not to be pleaded in bar here<g ref="char:EOLhyphen"/>unto;
+in like manner, if the law of callings at any time oppo<g ref="char:EOLhyphen"/>ſeth,
+or lyeth croſſe to the neceſſary conveniences of men, du<g ref="char:EOLhyphen"/>ring
+the time of this oppoſition, it ſuffereth a totall eclipſe of
+the binding power of it. It is a common ſaying among the Jew<g ref="char:EOLhyphen"/>iſh
+Doctors, <hi>that perill of life drives away the Sabboth;</hi> yea Maſter
+<hi>Ainſworth</hi> citeth this ſaying out of the <hi>Hebrew Canons:</hi>
+               <note place="margin">Pericuſunt vitae pelli Sabbati<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</note> 
+               <hi>Circumci<g ref="char:EOLhyphen"/>ſion
+in the time thereof driveth away the Sabboth;</hi> and afterwards,
+<hi>that perill of life driveth away all</hi>
+               <note n="b" place="margin">Gen. 17. 12, 13.</note>. So that as there were ſeverall
+caſes, wherein (as our Saviours expreſſion is) they <hi>who polluted
+the Sabboth were blameleſſe</hi>
+               <note n="c" place="margin">Mat. 12.</note>; In like manner, there are very ma<g ref="char:EOLhyphen"/>ny
+caſes, wherein men may tranſgreſſe the ordinary law of Cal<g ref="char:EOLhyphen"/>lings,
+and yet be no tranſgreſſors. Therefore unleſſe it can be
+proved, that the Armie had no neceſſity lying upon them to gar<g ref="char:EOLhyphen"/>ble
+the Parliament as they did; their going beyond their ordina<g ref="char:EOLhyphen"/>ry
+callings to doe it, will no wayes impaire the credit or legiti<g ref="char:EOLhyphen"/>mateneſſe
+of the action.</p>
+            <p>2.<note place="margin">Sect. 5.</note> Nor did they ſtretch themſelves beyond the line of their
+callings, to act therein as they did. Their calling and commiſ<g ref="char:EOLhyphen"/>ſion
+was, to act in the capacity of Souldiers for the peace, liber<g ref="char:EOLhyphen"/>ties,
+and ſafety of the Kingdome. What doth this import,
+but a calling to prevent, or ſuppreſſe by force, all ſuch perſons
+and deſignes, whoſe faces were ſet to diſturb, or deſtroy them?
+Nor did their Commiſſion (I preſume) limit or conclude their
+judgements to any particular kind of enemies, as if they had only
+power, or a calling thereby, to oppoſe or ſuppreſſe, either ſuch,
+who ſhould confeſſe themſelves enemies, or ſuch, who by the
+Interpretation or vote of any one party, or faction of men in
+the Kingdoms, ſhould be reputed and deemed enemies: but all
+ſuch, without exception, whom they, upon competent grounds,
+and ſuch, as upon which diſcreet men in ordinary caſes are
+wont to frame acts of judgement, and to proceed to action ac<g ref="char:EOLhyphen"/>cordingly,
+ſhould judge and conclude to be enemies. Or if it
+<pb n="4" facs="tcp:114758:5"/>
+ſhall be ſuppoſed, that by their Commiſſion they were limited to
+judge onely thoſe enemies to the Kingdome, with their abbet<g ref="char:EOLhyphen"/>tors
+and ſupporters, who were in Armes with the King, or on
+the Kings behalfe againſt the Kingdome, in their Repreſenta<g ref="char:EOLhyphen"/>tives;
+thoſe Parliament-men, whom they have excluded from
+ſitting in that houſe, having notoriouſly diſcovered themſelves
+to be men of this engagement, friends and abettors of thoſe, who
+very lately were, and yet in part are, in armes againſt the peace
+and ſafety of the Kingdome, in this conſideration fall directly
+and clearely under their commiſſion; and conſequently, by war<g ref="char:EOLhyphen"/>rant
+hereof, they have, and had a <hi>calling,</hi> to proceed againſt them
+as they did.</p>
+            <p>3.<note place="margin">Sest. 6.</note> If the calling which the Parliament it ſelfe had to levy For<g ref="char:EOLhyphen"/>ces
+againſt the King and his Party, to ſuppreſſe them, and their
+proceedings, as deſtructive to the peace, liberties, and ſafety
+of the Kingdome, was warrantable and good, then was the cal<g ref="char:EOLhyphen"/>ling
+of the Armie to act as they did in the buſineſſe under debate,
+warrantable and good alſo. But the antecedent is true, there<g ref="char:EOLhyphen"/>fore
+the conſequent alſo. The minor propoſition, <hi>viz.</hi> that the
+calling of the Parliament, to levy Forces againſt the King and
+his Party, in order to the ends mentioned, was every wayes war<g ref="char:EOLhyphen"/>rantable
+and good, I preſume will not be denyed by the Parlia<g ref="char:EOLhyphen"/>ment-men
+themſelves. Or if they ſhould deny it, they would
+but deny the Sunne to be up at noone-day, inaſmuch as the truth
+thereof hath beene brought forth into a cleare and perfect light,
+by many pennes,<note place="margin">Mr. <hi>Prynne</hi> Sover. Power of Parliame<g ref="char:cmbAbbrStroke">̄</g>ts and King<g ref="char:EOLhyphen"/>domes.</note> yea and by their owne (in many of their De<g ref="char:EOLhyphen"/>clarations)
+yea, and Mr. <hi>Prynne</hi> himſelfe hath ſet it up in a great
+Volume as <hi>upon a mountaine, that it cannot be hid;</hi> though by the
+fervency of his late Devotion to the Kings intereſt and cauſe, he
+hath attempted the melting downe of that mountaine.</p>
+            <p>The connexion in the major propoſition is valid upon this
+conſideration.<note place="margin">Sect. 7.</note> The Parliament (or at leaſt the Parliament men
+who did the thing) had no other calling, to oppoſe the King
+and his, by force, but onely the generall call of the major part
+of the people, by which they were inabled to act in a Parliamen<g ref="char:EOLhyphen"/>tary
+capacity, [i. more effectually, and upon more advanta<g ref="char:EOLhyphen"/>gious
+termes, then ſingly, or out of ſuch a capacity, they could]
+for their good. By this call by the major part of the people,
+they were enabled onely in a generall, implicit, and indefinite
+<pb n="5" facs="tcp:114758:5"/>
+manner, to raiſe forces againſt the King and his complices, for
+the ſafetie, and behoofe of the Kingdome. So that the particula<g ref="char:EOLhyphen"/>rity
+of this action was not warranted ſimply by the nature, or te<g ref="char:EOLhyphen"/>nure
+of their call, but by the regular and due proportion which
+it had to the accompliſhing of the end, for which they were
+choſen or called, <hi>viz.</hi> the peoples good. From whence it fol<g ref="char:EOLhyphen"/>lowes,
+that whether they had beene in a Parliamentary capaci<g ref="char:EOLhyphen"/>ty,
+or no, yet if they had been in a ſufficient capacity of ſtrength,
+or power for matter of execution, their call to doe it, for ſub<g ref="char:EOLhyphen"/>ſtance,
+had been the ſame, though not for forme. And ſuppoſe
+there had beene no Parliament ſitting, or in being, when the
+King and his party roſe up in armes againſt the Peace, Liberties,
+and ſafety of the Kingdome; doubtleſſe if any one man had been
+able to have ſecured the Kingdome in all theſe againſt them, his
+action had not been cenſurable for want of a calling to it; in as
+much as every member, as well in a body politique, as naturall,
+hath a ſufficient call, yea an ingagement lying by way of duty
+upon it, to act at any time, and in all caſes, according to its beſt
+and utmoſt capacity, or ability, for the preſervation and bene<g ref="char:EOLhyphen"/>fit
+of the whole. Now then, ſuppoſing the ſame proportion to
+the peace, benefit, and ſafety of the Kingdome, in what the Ar<g ref="char:EOLhyphen"/>my
+did in purging the Parliament, and in what the Parliament
+it ſelfe did, in oppoſing the King by force (which is a point of
+eaſie demonſtration, and is <hi>ex ſuper abundanti,</hi> proved in the large
+Remonſtrance of the Army lately publiſhed) let us conſider, whe<g ref="char:EOLhyphen"/>ther
+the call of the Army, to act for the Kingdome as they did,
+be not as authentique, cleare, and full, as that of the Parliament
+to act as they did, in reference to the ſame end.</p>
+            <p>Firſt,<note place="margin">Sect. 8.</note> the authority and power of the people [or rather the
+preſent exerciſe and execution of this power] to act for their
+owne preſervation and well being in every kind, was as well for<g ref="char:EOLhyphen"/>mally,
+and according to the ceremonie of the Law, as really, and
+according to the true intentions and deſires of the people, veſted
+in the Parliament. So that the Parliament by vertue of this in<g ref="char:EOLhyphen"/>veſtiture,
+and during the ſame, had the ſame right of power to
+raiſe an Armie, and to give unto it what Commiſſion they judg<g ref="char:EOLhyphen"/>ed
+meet, in order to the benefit of the people, or to act any o<g ref="char:EOLhyphen"/>ther
+thing of like tendency, which the people themſelves had,
+to chuſe for themſelves a Parliament. Therefore whatſoever lyeth
+<pb n="6" facs="tcp:114758:6"/>
+within the verge of the Armies Commiſſion derived from the
+Parliament, relating to the Kingdomes good, they have as full
+and formall a call, or warrant, to act, and put in execution, as
+the Parliament it ſelfe had, either to raiſe an Army, or to doe
+any other act whatſoever. If then firſt, the ten or of their Com<g ref="char:EOLhyphen"/>miſſion
+ſtood towards any ſuch point as this, (which I preſume
+is no way queſtionable) <hi>viz.</hi> to ſuppreſſe by ſtrong hand, all
+ſuch perſons, whom upon rationall grounds they ſhould judge e<g ref="char:EOLhyphen"/>nemies
+to the peace and welfare of the Kingdome; and ſecondly,
+that thoſe Parliament Members, whom now they have cut off
+from that body, were upon ſuch grounds judged ſuch by them,
+(of the truth wherof they have given a ſuperſufficient account in
+their ſaid late Remonſtrance;) it is as cleare as the Sun that their
+calling to act as they did in cutting off theſe Members, is every
+whit as legitimate and formall, as that of the Parliament it ſelfe
+is to act any thing whatſoever, as a Parliament.</p>
+            <p>Nor is it of any value to pretend here,<note place="margin">Sect. 9.</note> and ſay, that it is not
+to be beleeved, that a Parliament ſhould give any Commiſſion
+unto men, to act againſt themſelves, or in a deſtructive way to
+their priviledges, or honours. For to this I anſwer.</p>
+            <p>Firſt, that Law-givers, whilſt they are ſober, and in their
+right mindes, may very probably make ſuch Lawes, for the or<g ref="char:EOLhyphen"/>dering
+and reſtraint of perſons diſtracted and madd, which, in
+caſe they afterwards become diſtracted, may, and ought to bee
+put in execution, upon themſelves. And in caſe any of thoſe
+Parliament men, who joyned in granting that Commiſſion unto
+the Army, by which they were inabled to fight, ſlay and deſtroy
+all thoſe that were in armes againſt the Parliament, ſhould after<g ref="char:EOLhyphen"/>wards
+have turned Cavaliers themſelves, and been found in armes
+againſt the Parliament (as ſome of them, If my memory faileth
+me not, were) they might very lawfully have beene encountred
+and deſtroyed by the Army, by vertue of that Commiſſion which
+was granted by themſelves.</p>
+            <p>Secondly,<note place="margin">Sect. 10.</note> what onely one Emperour explicitely ſpake to an
+inferiour Officer created by him, when hee delivered him the
+Sword;<note place="margin">Si juſtè egero, hoc utar is pro me: Si injuſtè, contrà me.</note> 
+               <hi>If I doe juſtly, uſe this for me; if unjuſtly, uſe it againſt me;</hi>
+the ſame implicitely, and according to the exigency of the turſt
+committed by Office, doth every ſuperiour Magiſtrate ſay unto
+him, whom he chuſeth and admitteth into a place of ſubordi<g ref="char:EOLhyphen"/>nate
+<pb n="7" facs="tcp:114758:6"/>
+office, or power under him. For <hi>the puniſhment of evill doers,</hi>
+and ſo the procurement of the publique good, doth notlye by
+way of Office, or duty, upon the chiefe Magiſtrate onely, but up<g ref="char:EOLhyphen"/>on
+all ſubordinate Magiſtrates alſo, and Officers whatſoever.
+This is evident from this paſſage in <hi>Peter: Submit your ſelves to e<g ref="char:EOLhyphen"/>very
+ordinance of man for the Lords ſake, whether it be to the King,
+as ſupreame; Or unto Governours. [i.</hi> inferiour Magiſtrates or Of<g ref="char:EOLhyphen"/>ficers]
+<hi>as to them that are ſent by him for the puniſhment of evill
+doers, and for the prayſe of them that do well.</hi>
+               <note n="a" place="margin">1 Pet. 2. 13, 14.</note> So then, <hi>the puniſh<g ref="char:EOLhyphen"/>ment
+of evill doers,</hi> and this ſimply. without all partiality, or di<g ref="char:EOLhyphen"/>ſtinction
+of perſons, (which are things ſinfull in all Magiſtrates
+whatſoever, as well ſubordinate, as ſupreame) and likewiſe the
+protection and incouragement of <hi>thoſe that doe well,</hi> lying by way
+of Office and duty, upon all thoſe, who by the <hi>King,</hi> or ſupreme
+Officer, are inveſted with any power of authority, though ſub<g ref="char:EOLhyphen"/>ordinate;
+evident it is, that whenſoever a <hi>King,</hi> or other Su<g ref="char:EOLhyphen"/>preame
+authoritie, creates an inferiour, they inveſt it with a le<g ref="char:EOLhyphen"/>gitimacy
+of magiſtraticall power to <hi>puniſh</hi> themſelves alſo, in
+caſe they prove <hi>evill doers;</hi> yea and to act any other thing requi<g ref="char:EOLhyphen"/>ſite
+for <hi>the praiſe</hi> or incouragement of the good. Nor is there any
+pretence here for ſuch an exception, as the Apoſtle <hi>Paul</hi> findes,
+in the grand Commiſſion of Chriſt. <hi>But when hee ſaith all things
+are put under him, it is manifeſt that he is excepted, which did put
+all things under him.</hi>
+               <note n="b" place="margin">1 Cor. 15. 27.</note> God the Father being uncapable of ſin,
+is not capable of loſing that ſoveraigne dignity, which is native
+and eſſentiall to him; and conſequently, not capable of com<g ref="char:EOLhyphen"/>ming
+into ſubjection under any creature, as <hi>Chriſt</hi> Mediator, in
+reſpect of his humane nature, is. But Kings and Magiſtrates of
+the higheſt, being very capable even of ſuch ſins, which are de<g ref="char:EOLhyphen"/>ſtructive
+to the peace and welfate of the people under them, and
+repugnant to the incouragement of thoſe <hi>that doe well,</hi> and con<g ref="char:EOLhyphen"/>ſequently,
+which appertaine to the cognizince of every Magi<g ref="char:EOLhyphen"/>ſtrate,
+to whom the care of ſuch things is intruſted, are very
+capable alſo of forfeiting that dignity, which is naturall and eſ<g ref="char:EOLhyphen"/>ſentiall
+to them, as Kings, or Supreame, and of rendring them<g ref="char:EOLhyphen"/>ſelves
+obnoxious to thoſe authorities and powers, which out of
+ſuch caſes, are under them, but upon ſuch miſcariages, are a<g ref="char:EOLhyphen"/>bove
+them; as <hi>Reuben</hi> forfeited that <hi>excellency of dignity,</hi> which
+appertained to him, as <hi>the firſt borne</hi> of his Father, by <hi>going up
+<pb n="8" facs="tcp:114758:7"/>
+unto his Fathers bed.</hi>
+               <note n="b" place="margin">Gen. 49. 3.</note> Upon this very ground <hi>Calvin</hi> himſelfe,
+<hi>Zuinglius,</hi> and other reformed Divines, and the <hi>Scottiſh</hi> Mini<g ref="char:EOLhyphen"/>ſters
+themſelves (more generally) and Maſter <hi>Prynne</hi> more vo<g ref="char:EOLhyphen"/>luminouſly
+then they all, determine and adjudge it, not onely
+lawfull, but matter of duty and charge lying upon the ſubordi<g ref="char:EOLhyphen"/>nate
+Magiſtrates, to curb and bridle the tyrannous extravagan<g ref="char:EOLhyphen"/>cies
+and incurſions of Kings and Princes againſt their people.<note n="c" place="margin">See <hi>Calvin</hi> &amp; <hi>Zamglius</hi> cited by Mr. <hi>Prynn,</hi> with approba<g ref="char:EOLhyphen"/>tion, upon the account. So<g ref="char:EOLhyphen"/>ver. Power of Parl. &amp; King<g ref="char:EOLhyphen"/>doms, p. 199. And the Scot<g ref="char:EOLhyphen"/>tiſh Miniſters in their briefe Theſis <hi>de ma<g ref="char:EOLhyphen"/>jeſtatis jure,</hi> M. S.</note>
+But</p>
+            <p>Secondly, ſuppoſe the Armie had not a call to act as they did,
+in the caſe under debate, every wayes as full of formality, as
+the call of the Parliament to act as they did, in oppoſition to
+the King, yet might their call be (and indeed was) as materi<g ref="char:EOLhyphen"/>all,
+as weighty, as conſiderable, and as juſtifyable in the ſight of
+God,<note place="margin">Sect. 11.</note> and of all unprejudiced intelligent men, as the other.
+The call of the Parliament we ſpake of, was from the <hi>perſons</hi> of
+the people, expreſſed by formality of words, or other ordinary
+geſtures, teſtifying ſuch a call from them: and this call they (or
+moſt of them) received from the people, whilſt as yet they (the
+people) were in no viſible, at leaſt in no imminent or preſent
+danger of being fwallowed up in ſlavery and tyranny. But the
+<hi>call</hi> of the Armie, to deny the opportunity of the houſe, to thoſe
+Members of Parliament, whom they ſequeſted, was from the
+ſtrong and importonate cries of the peoples <hi>Liberties,</hi> yea and of
+many of their lives, being now layd upon the Altar, ready to be
+offered up in ſacrifice upon the ſervice of the luſt and revenge of
+a moſt inhumane gencration of men, who (it ſeemes) thirſted
+after them with that furiouſneſſe of thirſt, that they made no
+ſpare of their owne deare lives themſelves to make the purchace,
+and were now under a great additionall enragement, as having
+been for a long time chaſed up and downe in their owne blood,
+and by a ſtrong hand kept faſting from their deſires. Now the
+cals of the miſeries and extremities of men for reliefe, are more
+authorizing, more urging, preſſing, and binding upon the con<g ref="char:EOLhyphen"/>ſciences
+of men, who have wherewithall to afford reliefe unto
+them, then the formall requeſts or elections of men to places of
+truſt or intereſt, when the electors have no ſuch preſent or preſ<g ref="char:EOLhyphen"/>ſing
+neceſſity upon them, for the interpoſall of the elected on
+their behalfe: The neceſſities of men <hi>call</hi> more effectually, then
+men themſelves; yea, the truth is, that the cals of men, calling
+<pb n="9" facs="tcp:114758:7"/>
+thers to helpe or aſſiſt them, being in a tolerable condition of
+ſubſiſting, without receiving the helpe they call for, are but dal<g ref="char:EOLhyphen"/>lyings,
+or ſportings, and ſhadowes of cals, in compariſon of the
+loud, vehement, and importunate cries of the exigencies and ex<g ref="char:EOLhyphen"/>tremities
+of men, though the men themſelives ſhould hold their
+peace.</p>
+            <p>Fourthly,<note place="margin">Sect. 12.</note> (and laſtly to the firſt objection) the common
+ſaying,<note place="margin">In caſu extre<g ref="char:EOLhyphen"/>mae neceſſita<g ref="char:EOLhyphen"/>tis omnia ſunt communia.</note> that <hi>in caſe of extreame neceſſity all things are common,</hi> ex<g ref="char:EOLhyphen"/>tend's
+unto <hi>callings</hi> alſo. In caſes of neceſſity, all <hi>callings</hi> are com<g ref="char:EOLhyphen"/>mon,
+in order to the ſupply of the preſent neceſſity. <hi>David</hi> and
+his men being hungry,<note place="margin">
+                  <hi>Aqu.</hi> 22 ae: qu. 32. art. 7.</note> were all <hi>Prieſts,</hi> in reference to the ſatiſ<g ref="char:EOLhyphen"/>faction
+of their hunger, and did, and that lawfully, eate that
+<hi>bread, which</hi> (as our Saviour himſelfe affirmeth) <hi>was lawfull onely
+for the Prieſts to eate.</hi>
+               <note n="a" place="margin">Mat. 12. 4.</note> 
+               <hi>Polanus</hi> a reformed Divine of good note,
+granteth, that <hi>when Biſhops and Eccleſiaſtiques are defective either
+in will, or skill,</hi> for <hi>the reformation of Religion, and the Church;
+laicks</hi> or private men <hi>may law fully ſupply their defect herein,</hi> and act
+the part of Biſhops or Eccleſiaſtical perſons, in ſuch reformations.<note n="b" place="margin">Laicis li<g ref="char:EOLhyphen"/>cet curam de Reformand â Religione, &amp; Eccleſiâ ſuſci<g ref="char:EOLhyphen"/>pere, ceſſanti<g ref="char:EOLhyphen"/>bus, vel non facientibus officium, vel facultate de<g ref="char:EOLhyphen"/>ſtitutis Epiſ<g ref="char:EOLhyphen"/>copis &amp; Eccle<g ref="char:EOLhyphen"/>ſiaſticis. Po<g ref="char:EOLhyphen"/>lan. Symph. c. 19. Theſ. 2.</note>
+            </p>
+            <p>When the Pilot, or Maſter of a Ship at Sea, be either ſo farre
+overcome and diſtempered with drinke, or otherwiſe diſabled,
+as through a phreneticall paſſion, or ſickneſſe in any kinde, ſo
+that he is uncapable of acting the exigencies of his place; for
+the preſervation of the Ship, being now in preſent danger, either
+of running upon a quick ſand, or ſplitting againſt a rock, &amp;c.
+anyone, or more of the inferiour Mariners, having skill, may,
+in order to the ſaving of the Ship, and of the lives of all that are
+in it, very lawfully aſſume, and act according to the intereſt of
+a Pilot, or Maſter, and give orders and directions to thoſe with
+them in the Ship accordingly, who ſtand bound at the perill of
+their lives in this caſe to obey them. By ſuch a compariſon as
+this, Maſter <hi>Prynne</hi> himſelfe demonſtrates how regular and law<g ref="char:EOLhyphen"/>full
+it is for <hi>Parliaments,</hi> yea and for particular men, to turne
+Kings, I meane, to aſſume that Intereſt and power, which the Law
+appropriates to the Office, and veſteth onely in the perſon of the
+King, when the King ſteereth a courſe in manifeſt oppoſition to
+the peace and ſafety of the Kingdome.</p>
+            <p>
+               <hi>The paſſage in Maſter</hi> Prynne, <hi>though it be ſomewhat large,
+yet being through and home to the point in hand, I ſhall pre<g ref="char:EOLhyphen"/>ſent
+Verbatim.</hi> Go too now <hi>(ſaith this</hi> Anti Protyrannievll <hi>Spirit)</hi>
+               <pb n="10" facs="tcp:114758:8"/>
+in this our Politique Ship, the Maſter gluts himſelfe with Wine,
+moſt of his Aſſiſtants either aſleepe, or drunke with mutuall cups, ſpor<g ref="char:EOLhyphen"/>tingly
+behold an imminent rock. The Ship in the meane time, either
+holds not that courſe, which is expedient for the owner, or ſeemes ſpeedily
+to be wracked. What thinkeſt thou is here to be done under the Ma<g ref="char:EOLhyphen"/>ſter,
+by one who is vigilant and ſolicitous? Shall he pull thoſe by the
+eares, who are aſleepe, or onely jogge them by the ſides? but in the
+meane time, leſt he ſhould ſeeme to doe ought without their command,
+ſhall bee not afford his helpe and aſſiſtance to the indangered Ship?
+Truly what madnes, or rather impietie, wil this be? Seeing then (as <hi>Plato</hi>
+ſaith) TYRANNY IS A CERTAIN PHRENSIE and drun<g ref="char:EOLhyphen"/>kennes,
+the Prince may utterly ſubvert the Republique, the moſt of the No<g ref="char:EOLhyphen"/>bles
+may collude, connive, or at leaſt are faſt aſleepe; the people, who are
+Lords of the Republique, by the fraude and negligence of their Mini<g ref="char:EOLhyphen"/>ſters,
+which is their fault, are reduced into greateſt ſtreights: in the
+meane time, there is one of the Nobles, which conſiders the incroach<g ref="char:EOLhyphen"/>ing
+tyranny, and deteſts it from his ſoule: what think'ſt thou is now
+to bee done againſt him by this man? Shall be onely admoniſh his Col<g ref="char:EOLhyphen"/>leagues
+of their duty; who themſelves doe as much hurt as they may?
+But beſides, as it is perillous to admoniſh, and in that ſtate of things
+it may be deemed a capitall crime: ſhall hee doe like thoſe, who contemn<g ref="char:EOLhyphen"/>ing
+other helpes, caſting away their armes, ſhall cite Lawes, and make
+an Oration concerning Juſtice, among theeves, in the midſt of a wood?
+But this truly is that which is commonly ſaid, to be mad with reaſon.
+What then? ſhall he grow deafe at the peoples groanes? Shall hee be
+ſilent at the entrance of theeves? Or ſhall he finally grow lazie, and
+put his hands into his boſome? But if the Lawes appoint the puniſh<g ref="char:EOLhyphen"/>ment
+of a Traytor againſt one wearing buskins on his legges, who coun<g ref="char:EOLhyphen"/>terſeits
+ſickneſſe for feare of the enemies, what puniſhment at leaſt ſhall
+we decree againſt him, who either through malice, or ſlothfulneſſe,
+ſhall betray thoſe whom he hath undertaken to protect? But rather he
+ſhall command thoſe things that are needfull to ſuch as are wary, by
+a Mariners ſhout: he ſhall take care leſt the Common-wealth receive any
+detriment, and ſhal preſerve the Kingdome even againſt the Kings wil
+and reſiſtance, by WHICH HE HIMSELF BECOMES A KING
+and ſhall cure the King himſelfe as a frantique man, by BINDING
+HIS HANDS AND FEET, if he may not otherwiſe doe it. <hi>Thus
+farre Mr.</hi> Prynne; <hi>and full far enough to juſtifie whatſoever is ſaid
+in theſe papers for the juſtification of the Army in their</hi> binding the
+<pb n="11" facs="tcp:114758:8"/>
+hands and feet <hi>of ſome</hi> frantique <hi>Parliament men (as himſelf in
+a Platonick ſtrein phraſeth thoſe, who</hi> either thorough malice, or
+ſlothfulneſſe, ſhall betray thoſe, whom they have undertaken to protect.)</p>
+            <p>It were eaſie to multiply inſtances of like import. But by
+what hath been argued, the nullitie of that argument againſt the
+proceedings of the Army, drawne from the defect of a calling to
+act as they did, fully appeareth.</p>
+            <p>A ſecond Objection is this:<note place="margin">Sect. 13.</note> They <hi>reſiſted</hi> Authority, or the
+powers lawfully ſet over them;<note place="margin">The ſecond maine ob<g ref="char:EOLhyphen"/>jection.</note> and therein, the <hi>ordinance of God:</hi>
+therefore their fact is to be condemned and cannot be juſtified:
+I anſwer,</p>
+            <p>Firſt, To <hi>reſiſt</hi> Authority, imports either a detracting or de<g ref="char:EOLhyphen"/>nyall
+of obedience to the juſt commands of Authority, or elſe
+the ingaging of a mans ſelfe to diſſolve, and take away Autho<g ref="char:EOLhyphen"/>rity.
+Now certaine it is that the Army, in that act of theirs now
+in queſtion, neither did the one, or the other. Firſt, the authori<g ref="char:EOLhyphen"/>ty
+of Parliament, had made no ſuch Act, paſſed no ſuch Vote,
+that none of their Members, though voting, or acting never ſo
+palbably, or with never ſo high an hand againſt the Intereſt,
+peace, and liberties of the Kingdome, ſhould be debarred ſitting
+in their houſe. In which reſpect, the Army debarring thoſe
+Members, which had thus voted and acted, from ſitting in that
+Houſe, did not <hi>reſiſt Authority</hi> in the former ſence. Or in caſe it
+ſhould be ſuppoſed, that the authority of Parliament, had made
+ſuch an act, or paſſed ſuch a Vote, as that mentioned, unleſſe
+the equity and juſtneſſe of it could be ſufficiently cleared, the
+crime of reſiſting authority could not upon any ſufficient ground
+be imputed to thoſe, who ſhould decline obedience to it.</p>
+            <p>Secondly,<note place="margin">Sect. 14.</note> neither did the Army in the aforeſaid act, reſiſt
+authority in the latter ſence; becauſe what they did, no way
+imported any diſlike of Parliament authority, nor had any ten<g ref="char:EOLhyphen"/>dency
+towards the abolition, or taking of it away; but onely
+implyed a diſapprovement of the factious carriage of things in
+this preſent Parliament, as evidently bent againſt the ſafety, li<g ref="char:EOLhyphen"/>berties,
+and well beeing of the Nation; and tended withall to<g ref="char:EOLhyphen"/>wards
+a prevention of the like, or worſe, for the future. But as
+for their approbation of, and reſolutions to maintaine Parlia<g ref="char:EOLhyphen"/>ments,
+and Parliamentary authority (ſtared and formed in a
+regular and due proportion to the behoofe and benefit of the
+<pb n="12" facs="tcp:114758:9"/>
+Kingdome) they ſtand abundantly declared to all the World in
+their late <hi>Remonſtrance.</hi>
+            </p>
+            <p>If it be here yet further ſaid;<note place="margin">Sect. 15.</note> yea but though it ſhould bee
+granted, that they did not <hi>reſiſt</hi> Authority, in either of the two
+conſiderations ſpecified, yet they did that, which was worſe, or
+every whit as bad, as either of them. For they offered violence
+to perſons in authority, and would not ſuffer them to act in that
+authoritative capacity, which was lawfully veſted in them; To
+this alſo I anſwer;</p>
+            <p>Firſt, it is lawfull for any man, even by violence, to wreſt a
+Sword out of the hand of a mad man, though it be never ſo le<g ref="char:EOLhyphen"/>gally
+his, from whom it is wreſted. The reaſon is, becauſe in
+caſe a man that is mad, ſhould be let alone with a Sword in his
+hand, either untill he be willing of himſelfe to part with it, or
+untill it can be recovered from him by a due proceſſe and courſe
+in Law, there is a probability in reaſon, and according to the
+frequent experience of the workings of ſuch a diſtemper, that he
+will doe much miſchiefe with it in the meane time: and the
+lives and limbs of men, are to be preferred before the exorbitant
+wils, or humours of men underdiſtemper. This is the very caſe
+in hand. The Members of Parliament diſ-hous'd by the Army,
+were ſtrangely ſtruck with a politicall phrenſie (as <hi>Plato</hi> tearm<g ref="char:EOLhyphen"/>eth
+it;) they acted as men bereaved of their ſenſes, that had quite
+forgotten the buſineſſe committed unto them, and that knew, or
+underſtood nothing of matters relating to the peace or well be<g ref="char:EOLhyphen"/>ing
+of the Kingdome, or of thoſe who had intruſted them with
+their power: their counſels and votes of late ſtill ſmil'd upon
+their owne enemies, and the grand and moſt inveterate enemies
+of the Kingdome, but frown'd and look'd gaſtly upon their
+friends, and thoſe that had conſtantly guarded them with their
+lives and eſtates.
+<q>
+                  <l>Hic furor haud dubius; haec eſt manifeſta phreneſis.</l>
+               </q> i.
+<q>
+                  <l>This madneſſe is without all doubt,</l>
+                  <l>And phrenſie manifeſt throughout.</l>
+               </q>
+            </p>
+            <p>Now then Parliamentary power being in the hands of theſe
+men, but as a ſword or ſpeare in the hand of a man diſtraught
+in his wits and ſenſes, wherewith hee is like to doe little
+or no good but in continuall danger of doing much harme,
+it might very lawfully, and with the full conſent of all
+<pb n="13" facs="tcp:114758:9"/>
+principles of reaſon, equity, and conſcience, be ſe'zed upon,
+and taken from them by a ſtrong hand, for the prevention of
+ſuch miſchiefes and miſeries, which, remaining in their hand, it
+daily and hourly threatened to bring upon the whole Nation
+and Kingdome.</p>
+            <p>Secondly,<note place="margin">Sect. 16.</note> The King had as legall and formall in inveſtiture
+into to the power of the Militia, of ſitting in Parliament, &amp;c.
+as theſe men had unto their Parliamentary places and truſts:
+yet did not the Parliament unjuſtly, or contrary to rules of e<g ref="char:EOLhyphen"/>quity,
+upon a plenary diſcovery of a bent in his will and counſels
+to ſuppreſſe the liberties of the Nation, to deprive him, and that
+by force, of the injoyment and exerciſe of thoſe intereſts and pri<g ref="char:EOLhyphen"/>viledges,
+notwithſtanding the legality of their inveſtiture in him.
+Therefore upon a like diſcovery of the ſame bent in the wils and
+counſels of theſe Parliament men, the lawfulneſſe of their e<g ref="char:EOLhyphen"/>lections
+into their places of truſt, cannot reflect any unlaw<g ref="char:EOLhyphen"/>fulneſſe
+upon that act, by which they were removed from, or
+debarred of them.</p>
+            <p>Thirdly,<note place="margin">Sect. 17.</note> (and laſtly) there is no Clyent that hath enter<g ref="char:EOLhyphen"/>teined
+a Lawyer, or Advocate to plead his cauſe, but upon diſ<g ref="char:EOLhyphen"/>covery,
+yea or jealouſie, of prevarication, and falſe-heartedneſſe
+to him in his cauſe, may lawfully diſcharge him, his entertaine<g ref="char:EOLhyphen"/>ment
+notwithſtanding. There is the ſame liberty in a Pupill, or
+perſon in his minority, to diſ-entruſt his Goardian, how law<g ref="char:EOLhyphen"/>fully
+ſoever choſen, upon ſuſpition of male-adminiſtration, or
+unfaithfulneſſe. And why ſhould the like liberty be denyed unto
+a people or Nation, for the removing of ſuch perſons, whom
+they have choſen for Guardians to their Eſtates and Liber<g ref="char:EOLhyphen"/>ties,
+from theſe places of truſt, when they evidently diſcerne a
+direct tendency in their proceedings, to betray them, both in the
+one and the other, unto their enemies?</p>
+            <p>But two things (it is like) will bee here objected. Firſt,
+that the Parliament were Judges lawfully conſtituted, of the
+Kings delinquency againſt the Kingdome; but the Army were
+no Judges of ſuch a conſtitution, of the miſcarriages of the Par<g ref="char:EOLhyphen"/>liament.
+Therefore there is not the ſame conſideration, in point
+of lawfulneſſe, in the proceedings of the Army againſt the Par<g ref="char:EOLhyphen"/>liament,
+which is of the Parliaments proceeding againſt the King.
+There is the ſame difference likewiſe betweene the act of a Clyent
+<pb n="14" facs="tcp:114758:10"/>
+and Pupill, wherein the one diſchargeth his Advocate, and the
+other his Guardian; and the act of the Army, in dethroning the
+Parliament men. To this I anſwer,</p>
+            <p>Firſt,<note place="margin">Sect. 18.</note> That whether we place the lawfulneſſe of a Parliamen<g ref="char:EOLhyphen"/>tary
+Judicature in reſpect of the Kings Delinquency, either in
+their Election by the people, or in the conformity of this their
+Election unto the Lawes of the Land, certaine it is that the Ar<g ref="char:EOLhyphen"/>my
+were Judges of every whit as competent, and lawfull a con<g ref="char:EOLhyphen"/>ſtitution
+of their delinquencies in the ſame kinde. For,</p>
+            <p>Firſt, If we meaſure the lawfulneſſe of Parliamentary Judica<g ref="char:EOLhyphen"/>ture
+by the call of the people thereunto, the Army (as was for<g ref="char:EOLhyphen"/>merly
+proved) hath every whit as lawfull a conſtitution to judge
+who are enemies to the peace and ſafety of the Kingdome, as the
+Parliament it ſelfe hath. Nor doth it at all argue any illegality
+in their judgements about the Parliament men, that they had not
+the explicit and expreſſe conſent of the people therein, or that
+they had no call by them ſo to judge; no more then it proveth
+an illegallity in many Votes and Ordinances of Parliament, that
+they were both made and publiſhed, not onely without the par<g ref="char:EOLhyphen"/>ticular
+and expreſſe conſent, but even contrary to the minds and
+deſires of the people, or at leaſt of the major part of them. Be<g ref="char:EOLhyphen"/>ſides
+it is a ridiculous thing to pretend a want of a call from the
+people, againſt the lawfulneſſe of ſuch an act, which is of that
+ſoveraign neceſſity for their benefit and good, which the actings
+of the Army were; eſpecially at ſuch a time, when there is no poſ<g ref="char:EOLhyphen"/>ſibility
+of obtaining, or receiving a formall call from the people,
+without running an eminent hazard of loſing the opportunity
+for doing that excellent ſervice unto them, which the providence
+of God in a peculiar juncture of circumſtances, exhibit's for the
+preſent unto us. Mens conſents unto all acts manifeſtly tending
+to their reliefe, are ſufficiently expreſſed in their wants and ne<g ref="char:EOLhyphen"/>ceſſities.</p>
+            <p>If it be yet ſaid; But the people doe not judge the procee<g ref="char:EOLhyphen"/>dings
+of the Army againſt the Parliament men, as tending to
+their reliefe, or welfare in any kinde, but as contrary unto both,
+nor doe they give ſo much as their ſubſequent conſents thereun<g ref="char:EOLhyphen"/>to;
+I anſwer (beſides what was lately ſaid to the nullifying of
+this pretence) that Phyſitians called to the care and cure of per<g ref="char:EOLhyphen"/>ſons
+under diſtempers, need not much ſtand upon the conſents of
+<pb n="15" facs="tcp:114758:10"/>
+ſuch patients, either ſubſequent, or antecedent, about what they
+adminiſter unto them. If the people be uncapable in themſelves
+of the things of their peace, it is an act of ſo much the more
+goodneſſe and mercy in thoſe, who being fully capable of them,
+will ingage themſelves accordingly to make proviſion for them.
+It is a deed of Charity and Chriſtianity, to ſave the life of a lu<g ref="char:EOLhyphen"/>natique
+or diſtracted perſon even againſt his will.<note place="margin">Porrò ſi pau<g ref="char:EOLhyphen"/>latim idem po<g ref="char:EOLhyphen"/>pulus depra<g ref="char:EOLhyphen"/>vatus habeat venale ſuffra<g ref="char:EOLhyphen"/>giam, &amp; regi<g ref="char:EOLhyphen"/>men flagitioſis ſeeleratiſque committat, re<g ref="char:EOLhyphen"/>cte adimitur populo talis poteſtas dandi honores, &amp; ad paucorum bo<g ref="char:EOLhyphen"/>norum redit arbitrium. <hi>A<g ref="char:EOLhyphen"/>qu. 12 ae. qu. 67. art.</hi> 1.</note> Beſides it is a
+ruled caſe amongſt wiſe men, that <hi>if a people be depraved and cor<g ref="char:EOLhyphen"/>rupt,
+ſo as to conferre places of power and truſt upon wicked and un<g ref="char:EOLhyphen"/>deſerving
+men, they forfeit their power in this behalfe unto thoſe that
+are good, though but a few.</hi> So that nothing pretended from a
+non-concurrence of the people with the Army, will hold water.
+Or,</p>
+            <p>Secondly, If we eſtimate the lawfulneſſe of that Judicature,
+by the conformity of their elections thereunto, to the Lawes of
+the Land, the inveſtiture of the Army into that Judicature,
+which they have exerciſed in the caſe in queſtion, is conforme
+unto a Law of farre greater authority, then any one, yea then all
+the Lawes of the Land put together; I meane, the Law of nature,
+neceſſity, and of love to their Country and Nation: which be<g ref="char:EOLhyphen"/>ing
+the Law of God himſelfe written in the fleſhly tables of mens
+hearts,<note place="margin">Sect. 19.</note> hath an authoritative jurisdiction over all humane Lawes
+and conſtitutions whatſoever; a prerogative right of power to
+overrule them, and to ſuſpend their obliging influences, in all
+caſes appropriate to it ſelfe. Yea many of the Lawes of God
+themſelves, thinke it no diſparagement unto them, to give place
+to their elder Siſter, the Law of neceſſity, and to ſurrender their
+authority into her hand, when ſhee ſpeaketh. So that whatſoe<g ref="char:EOLhyphen"/>ver
+is neceſſary, is ſomewhat more then lawfull; more (I meane)
+in point of warrantableneſſe. If then the Army ſtood bound by
+the Law of nature and neceſſity, to judge the Parliament men
+as they did, <hi>viz.</hi> as men worthy to be ſecluded from their fel<g ref="char:EOLhyphen"/>lowes
+in Parliamentary intereſt, this judiciary power was veſted
+in them by a Law of greater authority, then the Lawes of the
+Land; and conſequently the legality, or lawfulneſſe of it was
+greater, then of that in the Parliament, which derives its legali<g ref="char:EOLhyphen"/>ty
+onely from a conformity to the eſtabliſhed Lawes of the Land.
+Yea the truth is, that that Law of neceſſity, by which the Army
+were conſtituted Judges of thoſe Parliamentary Delinquents
+<pb n="16" facs="tcp:114758:11"/>
+we ſpeake of, cannot (in propriety of ſpeech) be denyed to be
+<hi>one of the lawes of the Land,</hi> being the law of nature, and conſe<g ref="char:EOLhyphen"/>quently
+the law of all Lands, and Nations whatſoever, eſta<g ref="char:EOLhyphen"/>bliſhed
+in this, and in all the reſt, by a better, and more indubi<g ref="char:EOLhyphen"/>table
+legiſlative Authority, then reſides in any Parliament, or
+community of men whatſoever.</p>
+            <p>If it be here further objected;<note place="margin">Sect. 20.</note> yea but what neceſſity was there
+lying upon the Army, to aſſume that judicative power unto
+themſelves, which they exerciſed upon the Members of Parlia<g ref="char:EOLhyphen"/>ment?
+It is an eaſie matter to pretend a neceſſity (almoſt) for e<g ref="char:EOLhyphen"/>very
+unjuſt, and unrighteous thing; but not ſo eaſie to judge
+what ſuch a neceſſity is, which is authorized by God with a ſuſ<g ref="char:EOLhyphen"/>penſive
+power over humane lawes. To this I anſwer,</p>
+            <p>Firſt, That they cannot (at leaſt in the ordinary ſignification
+of the word) be ſaid to <hi>aſſume</hi> a power of judicature unto them<g ref="char:EOLhyphen"/>ſelves,
+who onely judge either of perſons, or of things, in re<g ref="char:EOLhyphen"/>ſpect
+of themſelves, and with relation to what concernes them<g ref="char:EOLhyphen"/>ſelves
+by way of duty, either to doe, or to forbeare. The exer<g ref="char:EOLhyphen"/>ciſe
+of ſuch a judging, or judicative power, as this, is impoſed
+by God by way of duty upon all men: and woe unto them, who
+doe not judge, both perſons and things, in ſuch a conſideration,
+as this. The neglect, or non-exerciſe of that judging faculty or
+power, which is planted in the ſoules and conſciences of men by
+God, upon ſuch termes, and with reference to ſuch ends as theſe,
+draweth along with it that ſin, w<hi rend="sup">ch</hi> the Wiſe man calleth, the <hi>deſ<g ref="char:EOLhyphen"/>piſing
+of a mans wayes,</hi> &amp; threatneth with death. <hi>But he that deſpi<g ref="char:EOLhyphen"/>ſeth
+his wayes ſhall dye</hi>
+               <note n="a" place="margin">Prov. 19. 16.</note> Now certain it is, that the Army did ex<g ref="char:EOLhyphen"/>erciſe
+no other judiciary power then this, about, or upon thoſe
+Parliame<g ref="char:cmbAbbrStroke">̄</g>t men, nor in any other reſpect, nor with any other con<g ref="char:EOLhyphen"/>ſideration,
+then to their own duty concerning them; w<hi rend="sup">ch</hi> every o<g ref="char:EOLhyphen"/>ther
+perſon in the Kingdom, either did, or ought to have done, as
+well as they. Every man is bound to conſider, judge, and de<g ref="char:EOLhyphen"/>termine,
+what is meet, and neceſſary for him to doe, either to,
+with, for, or againſt, all other men; or at leaſt all ſuch, to whom
+he ſtands in any relation, either ſpirituall, naturall, or civill.
+That judgement then which the Army paſſed in their own breſts
+and conſciences upon thoſe Parliament-men, as <hi>viz.</hi> that they
+were ſuch, whom they ſtood bound in duty, having an oppor<g ref="char:EOLhyphen"/>tunity
+in their hand to doe it, to cut off as unſound members
+<pb n="17" facs="tcp:114758:11"/>
+from their body, was nothing elſe but the iſſue, fruit, and ef<g ref="char:EOLhyphen"/>fect
+of that conſideration of them and of their wayes, which they
+ſtood bound to levy, raiſe, and engage themſelves in, about the
+one and the other. If the judgement which they paſſed in this
+kinde was erroneous, it was not erroneous through an uſurpa<g ref="char:EOLhyphen"/>tion
+of an unlawfull power to judge, but either through a defect
+and weakeneſſe of thoſe diſcerning, or judging abilities, which
+they ſtood bound (however) to uſe; or elſe through an oſcitan<g ref="char:EOLhyphen"/>cy,
+careleſneſſe, or ſloath, in not improving or acting theſe a<g ref="char:EOLhyphen"/>bilities,
+as they might, and ought, to the diſcerning of the truth.
+Certainly they who judge theſe Parliament-men worthy Patri<g ref="char:EOLhyphen"/>ots
+or Members of their Houſe, or meet to have beene let alone
+without diſturbance in their way, doe aſſume the ſame power of
+judicature concerning them, yea and concerning the greateſt
+and weightieſt matters of State, which the Army did, when
+they judged them meet to be ſequeſtred. Yea they who judge, and
+condemne the Armie as evill doers, for what they acted about
+theſe men; and not only ſo, but ſmite them alſo with the ſword
+of the tongue, reviling them without any juſt warrant or ground,
+doe they not every whit as much uſurp, and aſſume to themſelves
+a power of judging, without any authority at all, as the Armie
+did in that very act of judgement, at which they make themſelves
+ſo highly agrieved? Inſomuch that to all ſuch, that of the Apo<g ref="char:EOLhyphen"/>ſtle
+may be juſtly applied. <hi>Therefore thou art inexcuſable O man,
+whoſoever thou art that judgeſt. For wherein thou judgeſt another,
+thou condemneſt thy ſelfe: for thou that judgeſt, doſt the ſame things.</hi>
+Nay, if we ſpeak of an authoritative power to judge, they who
+preſume to juſtifie and abſolve the Parliament-ment from the
+crime charged upon them, and to condemn the Army for char<g ref="char:EOLhyphen"/>ging
+them, are farre deeper in the uſurpation of ſuch a power,
+then the Armie. For the Army (as hath been ſaid) had a legall
+commiſſion from the Parliament it ſelfe, to oppoſe, ſlay, and
+deſtroy the enemies of the Kingdome, and therein a kind of au<g ref="char:EOLhyphen"/>thority
+derived unto them, to judge of theſe enemies, when they
+ſhould meere with them (for a Commiſſion or warrant to appre<g ref="char:EOLhyphen"/>hend,
+or deſtroy ſuch and ſuch perſons, without a liberty, or
+power, either granted, or ſuppoſed, to judge them ſuch, when
+they are found, were a ridiculous nullity) whereas they, who
+being private men, ſhall undertake, not only to cenſure, judge,
+<pb n="18" facs="tcp:114758:12"/>
+and ſentence the Armie as Malefactors in what they have done,
+but to proceed likewiſe to the execution of this their ſentence by
+inflicting the penalty of ſtigmaticall and opprobrious terms upon
+them; by caſting them out of the affections of their friends, by
+firing the ſpirits, and ſtrengthning the hands of their enemies a<g ref="char:EOLhyphen"/>gainſt
+them, doe all this without the leaſt colour, ſhadow, or
+pretence of any lawfull authority whatſoever. But</p>
+            <p>2.<note place="margin">Sect. 21.</note> That the judgement or ſentence which the Armie paſſed up<g ref="char:EOLhyphen"/>on
+thoſe men, as meet to be diſpoſſeſſed of their Parliamentary
+intereſt, was not erronous in either of the conſiderations men<g ref="char:EOLhyphen"/>tioned,
+or in any other, but every wayes juſt, and according
+to the truth, ſtands cleer upon this ground, <hi>viz.</hi> that they were
+become Renegadoes from their Truſt, and acted by their coun<g ref="char:EOLhyphen"/>ſels,
+debates, votes, and intereſts, in a diametrall oppoſition
+to the peace and ſafety of the Kingdome, and to publique good.
+Yea the tenour of their Parliamentary actings before their remo<g ref="char:EOLhyphen"/>vall
+from the Houſe, in the known dialect of politicall propheſie,
+preſaged nothing but ruine and deſtruction to the liberties of the
+free-borne Subjects of the Kingdom in generall, and to the lives
+and eſtates of many thouſands in the Kingdome, whom they
+ſtood bound in conſcience, in a ſpeciall manner to protect. For
+what could that grand encouragement, which they adminiſtred
+by their Votes to a potent party of men in the Kingdome, who
+had ſo lately, and with ſo high an hand, acted hoſtility againſt
+the peace and liberties of the people, and againſt the lives of thoſe
+who ſtood up to protect them, not having given the leaſt over<g ref="char:EOLhyphen"/>ture
+of any relenting in their olde principles, but were now
+through that extreamity of paine which they lie under, having
+beene ſo often, and ſo deeply bitten, and ſtung by the fidelity and
+valour of the Army, more enraged in their ſpirits, then ever;
+what could (I ſay) ſuch an encouragement, given by ſuch hands,
+unto ſuch men, but portend, either a re-imbroyling of this al<g ref="char:EOLhyphen"/>ready
+miſerably-waſted Nation, in Wars and blood, or elſe the
+neceſſity of a patient and quiet ſubjection of the Nation to the i<g ref="char:EOLhyphen"/>ron
+yoke of perpetuall tiranny and bondage, together with the
+certaine ruine of the lives and eſtates of thoſe, who had ſhewed
+moſt faithfulneſſe and courage in the defence of the Parliament
+and the Kingdomes liberties, in oppoſing the King and his party,
+if the Army had not preventingly interpoſed, as they did? The
+<pb n="19" facs="tcp:114758:12"/>
+by paſt actions of men, eſpecially ſuch, which they have for any
+conſiderable ſpace of time in-ured themſelves unto, are prophe<g ref="char:EOLhyphen"/>ticall
+of what their future actions are like to be, if opportunity
+parallelth. The civill Law ſaith, that <hi>he that hath injured one,
+hath threatned many:</hi> and by the rule of proportion, he that hath
+injured many, hath threatned all. It is the ſaying of that late
+great Scholar and States-man, Sir <hi>Francis Bacon;</hi> that <hi>mens
+thoughts are much according to their inclination: their diſcourſe and
+ſpeeches according to their learning, and infuſed opinions: but their
+deeds are after as they have beene accuſtomed.</hi> Inſomuch as after<g ref="char:EOLhyphen"/>wards
+he ſaith, <hi>as a man would wonder to beare men profeſſe, pro<g ref="char:EOLhyphen"/>teſt,
+engage, give great words, and then doe juſt as they have done
+before</hi>
+               <note n="*" place="margin">Eſſaies. Eſſ. 27,</note> Yea the Scripture it ſelfe giveth teſtimony to this max<g ref="char:EOLhyphen"/>ime,
+that what men have been by cuſtome, they are like to be by
+continuance. <hi>Can the Ethiopian</hi> (ſaith God himſelfe to the Iews)
+<hi>change his skinne, or the Leopard his ſpots? then may ye alſo doe good
+that are accuſtomed</hi> [or, taught] <hi>to doe evill</hi>
+               <note n="a" place="margin">Jer. 13. 23.</note>. And elſewhere (ſpea<g ref="char:EOLhyphen"/>king
+of the ſame people) <hi>they hold faſt deceit, they refuſe to returne
+—no man repented him of his wickedneſſe, ſaying, what have I
+done? Every one turned to his courſe</hi> [or race] <hi>as the horſe ruſheth in<g ref="char:EOLhyphen"/>to
+the battle</hi>
+               <note n="b" place="margin">Jer. 8. 5, 6.</note>, meaning, that as the warlike horſe, having been for
+a while curb'd and held in by his Rider with a ſharp bit, &amp; ſtrong
+hand, ruſheth with ſo much the more violence and fury into
+the battle, when he feeles his liberty; In like manner theſe men,
+(and it is the caſe generally of all men) when they had been at a<g ref="char:EOLhyphen"/>ny
+time reſtrained for a while, whether by my word, or my judg<g ref="char:EOLhyphen"/>ments
+upon them, from theſe vile practiſes; ſtill upon the firſt
+opportunity that they found themſelves looſe, they re-practiſed
+their former wickedneſſe with ſo much the more eagerneſſe and
+keeneneſſe of ſpirit.</p>
+            <p>It were eaſie to bring Authorities in great numbers,<note place="margin">Sect. 22.</note> both di<g ref="char:EOLhyphen"/>vine
+and humane, and theſe attended with a like traine of exam<g ref="char:EOLhyphen"/>ples,
+both ancient and modern, for the farther confirmation
+and credit of this axiome, that men generally are much more
+like to practice on their owne vices, then to fall off to the exer<g ref="char:EOLhyphen"/>ciſe
+of other mens vertues. But by what hath been delivered in
+already upon this account, moſt evident it is, that the men depar<g ref="char:EOLhyphen"/>liamented
+by the Army, were in their full carreire to the utter
+undoing of the Kingdome, when they were diſmounted: and
+<pb n="20" facs="tcp:114758:13"/>
+conſequently, that the judgement of the Army looking upon
+them, as perſons meet to be diſcharged from that great Truſt,
+wherein they ſo prevaricated, was according to righteouſneſſe
+and truth. Therefore</p>
+            <p>3.<note place="margin">Sect. 23.</note> (And laſtly as to the objection laſt propounded) it is no
+ſuch great matter of difficulty, clearly to diſcern, and judge of
+ſuch emerging neceſſities (at leaſt of many of them) which are
+authorized by God with a prerogative intereſt of ſuſpending
+humane lawes. Hunger is by the holy Ghoſt himſelfe enrolled a<g ref="char:EOLhyphen"/>mongſt
+thoſe neceſſities, which are inveſted by God with a facul<g ref="char:EOLhyphen"/>ty
+and right of ſuſpending his owne lawes, ſo farre and in ſuch
+caſes, as they oppoſe the reliefe of it. <hi>Have yee not read</hi> (ſaith our
+Saviour to the <hi>Phariſees) what</hi> David <hi>did when he was an H<g ref="char:V">Ʋ</g>N<g ref="char:EOLhyphen"/>GRY,
+and they that were with him, how he entered into the houſe
+of God, and did eate the ſhew-bread, which was not lawfull for him
+to eate</hi> (viz. in ordinary caſes) <hi>neither for them that were with him,
+but for the Prieſts only</hi>
+               <note n="a" place="margin">
+                  <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at. 12. 3, 4, 5.</note>? meaning, and yet were innocent and un<g ref="char:EOLhyphen"/>reprovable,
+notwithſtanding the tranſgreſſion of a divine law
+(as touching the plain &amp; expreſs letter of it.) Now if God hath
+aſſerted ſuch a priviledge unto the neceſſity of <hi>hunger,</hi> whereby
+to ſuperſede the conſcientious obligation of his own law, in or<g ref="char:EOLhyphen"/>der
+to its preſent ſatisfaction, much more hath hee authorized
+it to the ſuperſeding of any conſtitution or law, meerly humane,
+in reference to ſuch an end; unleſſe wee ſhall thinke, that hee is
+more jealous for the obſervation of the lawes of men, then of his
+owne. So then if it be no great matter of difficulty for a man to
+judge when he is <hi>an hungry,</hi> evident it it, that there are ſome ca<g ref="char:EOLhyphen"/>ſes
+of neceſſity obvious enough, whereunto the lawes of men
+ought to give place, and to be content to be, as if they were not.
+For the reaſon why <hi>hunger</hi> is inveſted with ſuch a priviledge
+from God, as we ſpeak of, is not ſimply, as, or becauſe, it is <hi>hun<g ref="char:EOLhyphen"/>ger,</hi>
+i. ſuch a peculiar and determinate <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which in a way pro<g ref="char:EOLhyphen"/>per
+to it ſelfe, threatneth and endangereth the life of man; but
+in reſpect of the generall nature of it, and as it ſimply threatneth
+and endangereth this life, if it be not timely healed by the appli<g ref="char:EOLhyphen"/>cation
+of food, or nouriſhment. It was the preciouſneſſe of the
+lives of men in Gods ſight, not any reſpect he bare to any paricu<g ref="char:EOLhyphen"/>lar
+way, or meanes of endangering them, which obtained from
+him the grant of ſuch a priviledge unto <hi>hunger,</hi> that in order to
+<pb n="21" facs="tcp:114758:13"/>
+it's neceſſary ſatisfaction, it ſhould over-rule his owne law. So
+that whatſoever elſe it be, as well as <hi>hunger,</hi> which ſo apparent<g ref="char:EOLhyphen"/>ly
+menaceth, or portendeth ruine and deſtruction to the lives of
+men, partakes of the ſame indulgence and grant of priviledge
+from God, with <hi>hunger,</hi> and is facultated by him, in order to
+the prevention of the miſchiefe menaced, to tranſgreſſe a Law
+without guilt of ſinne. By the cleare warrant of this conſiderati<g ref="char:EOLhyphen"/>on
+and deduction, the Jewes extended that grant of priviledge,
+which God (as we have heard) made, or indulged explicitely un<g ref="char:EOLhyphen"/>to
+<hi>hunger</hi> only, unto all manner of things and caſes whatſoever,
+whereby, and wherein life was expoſed to imminent hazard and
+danger. Their common maximes were (as they were formerly
+mentioned,<note place="margin">Periculum vi<g ref="char:EOLhyphen"/>tae pellit Sab<g ref="char:EOLhyphen"/>bathum. Pe<g ref="char:EOLhyphen"/>riculum vita pellit omnia.</note> 
+               <hi>Sect.</hi> 4) that <hi>danger of life drives away the Sabbath:
+Perill of life drives away all, &amp;c.</hi> Now if the perill of the life of
+one man, or of a ſmall parcell of men (as <hi>David,</hi> and
+<hi>thoſe that were with him,</hi> were no great party) was priviledged
+from heaven with a ſinleſſe tranſgreſſion of a ſpeciall law of God;
+certainly, the imminent danger of bloody combuſtions in the
+middeſt of a great Nation, wherein the lives of many thouſands
+were like to be ſacrificed, beſides the hazard of beinging many o<g ref="char:EOLhyphen"/>ther
+moſt deplorable and ſad calamities upon the whole Land,
+which (as hath beene proved) wrought effectually in the coun<g ref="char:EOLhyphen"/>ſels
+and actings of the diſſeated Parliament-men, is a broad and
+unqueſtionable ground of equity and right, for the Armie to
+build a prevention or diverſion of them upon, though it be with
+a temporary diſobedience to ſuch lawes of men, which were never
+(doubtleſſe) intended by the Law-makers themſelves, for the
+binding, either of mens conſciences, or their hands, in ſuch
+caſes.</p>
+            <p>Onely,<note place="margin">Sect. 24.</note> leſt the truth we aſſert, ſhould poſſibly ſuffer through
+any mans miſtake, I ſhall adde one thing by way of caution, or
+explication about the premiſes. When wee ſeeme to approve of
+that principle of the <hi>Jewes,</hi> wherein they ſay, that <hi>Perill of life
+drives away all,</hi> and ſpeak many things concerning the priviledges
+of neceſſity, we doe not ſuppoſe, nor intend to ſay, that men
+may lawfully tranſgreſſe every law or precept of God whatſoe<g ref="char:EOLhyphen"/>ver,
+for the ſaying of their lives, being in danger, as for (exam<g ref="char:EOLhyphen"/>ple)
+that they may lawfully lie, forſwear themſelves, deny <hi>Chriſt,</hi>
+or the like, in ſuch caſes; for men (doubtleſs) ought rather to ac<g ref="char:EOLhyphen"/>cept
+<pb n="22" facs="tcp:114758:14"/>
+of death, then <hi>deliverance,</hi> upon ſuch tearmts as theſe.
+But that which we ſuppoſe upon the account ſpecified, is onely
+this; that hunger, or any parallell exigence or neceſſity, have
+ſuch an indulgencie of priviledge from God, which extendeth
+to the ſuſpenſion of all ſuch Lawes, as well Divine, as humane,
+in order to the ſafety of men lying under them, which the light
+of nature, and that ſence of equity and of what is reaſonable,
+planted in men by God, may well judge to have beene intended
+by the reſpective Law-makers, not for Lawes of an abſolute and
+univerſall obligement, without all manner of exception, but one<g ref="char:EOLhyphen"/>ly
+for the regulating of men in ordinary caſes, and ſuch as are
+of more frequent and uſuall occurrence. Now certaine it is,
+that as there are ſome Divine Lawes which fall under this conſi<g ref="char:EOLhyphen"/>deration
+(as we have ſeene) ſo there are ſcarce any (if any at
+all) of humane conſtitution, but are ſubject unto it; I meane,
+which may not, according to the regular intentions of the Law<g ref="char:EOLhyphen"/>makers
+themſelves, loſe their binding force and authority for a
+time,<note place="margin">Sect. 25.</note> as caſes may be; it being a true Rule, ſubſcribed as well by
+Lawyers as Divines,<note place="margin">Omnis Lex obligat ſecundum rectam voluntatem legiſlatoris obligantis. <hi>Da<g ref="char:EOLhyphen"/>ven. Determin. p.</hi> 100.</note> that <hi>Every Law bind's
+onely according to the regular and due inten<g ref="char:EOLhyphen"/>tion
+of the Law-maker.</hi>
+            </p>
+            <p>The reaſon why no humane Law,<note place="margin">Omnis Lex ordinatur ad communem hominum ſalutem: Et in tantum ob<g ref="char:EOLhyphen"/>tinet vim &amp; rationem legis: ſecundum verò quod ab hoc deficit, virtutem ob<g ref="char:EOLhyphen"/>ligandi non habet. <hi>Aqu. 12 ae. qu. 96. art.</hi> 6.</note> can
+reaſonably be judged to bee of univerſall
+obligation (no, not according to the in<g ref="char:EOLhyphen"/>tention
+of the Law-makers themſelves) is,
+firſt, becauſe the adequate end and ſcope of
+Law-makers in their Lawes, is preſum'd
+to be, the publique and common benefit
+and good of the community of men, who are to obey them.
+Now (as <hi>Aquinas</hi> the Schooleman well obſerveth) it <hi>often falls
+out, that that, which ordinarily, and in most caſes is much condu<g ref="char:EOLhyphen"/>cing
+to common good, in ſome particular caſe would bee moſt repugnant
+and deſtructive to it:</hi>
+               <note n="a" place="margin">Contingit autem multo<g ref="char:EOLhyphen"/>ties, quod ali<g ref="char:EOLhyphen"/>quid obſervari communi ſaluti eſt utile, ut in pluribus, quod tamen aliqui<g ref="char:EOLhyphen"/>bus caſibus eſt maximè noci<g ref="char:EOLhyphen"/>vum. <hi>Ibidem.</hi>
+               </note> whereof hee gives an inſtance; unto
+which many others might readily be added. Therefore in ſuch
+caſes, wherein the obſervation of a Law, cannot but be of dan<g ref="char:EOLhyphen"/>gerous
+conſequence, and prejudiciall to the publique, it is to be
+preſumed, that it was no part of the intention of the Law-givers
+that it ſhould be obſerved, or bind any man.</p>
+            <p>
+               <pb n="23" facs="tcp:114758:14"/>
+Secondly,<note place="margin">Sect. 26.</note> it being out of the Sphere of all earthly Law-ma<g ref="char:EOLhyphen"/>kers,
+to foreſee, or comprehend all particular
+caſes,<note place="margin">Quialgitur Legiſlator non po<g ref="char:EOLhyphen"/>teſt omnes ſingulares caſus intueri, proponit legem ſecundumea, quae in pluribus accidunt, ferens in<g ref="char:EOLhyphen"/>tentionem ſuam ad communem u<g ref="char:EOLhyphen"/>tilitatem. Unde ſi emergat caſus in quo obſervatio talis legis ſit damnoſa communi ſaluti, non eſt obſervands. <hi>Aquin.</hi> ubi ſuprà.</note> that may poſſibly happen, they generally
+content themſelves with framing ſuch Lawes,
+the keeping whereof ordinarily, and in caſes
+of a more frequent occurrence, is conducing to
+publique benefit and ſafety, not intending by
+any of theſe Lawes to obſtruct or prejudice
+the publique, in any anomalous or unthought
+of caſe, but to leave perſons of all Intereſts and
+qualities at full liberty, to provide for the publique in ſuch ca<g ref="char:EOLhyphen"/>ſes,
+though with a practicall contradiction to any, or all of
+their Lawes.</p>
+            <p>Thirdly (and laſtly,<note place="margin">Sect. 27.</note> for this) If it could, or ſhould be ſup<g ref="char:EOLhyphen"/>poſed,
+that humane Lawgivers are able to com<g ref="char:EOLhyphen"/>prehend
+and make proviſion for all poſſible e<g ref="char:EOLhyphen"/>mergencies
+and caſes,<note place="margin">Nullius hominis ſapientia tanta eſt, ut poſſit omnes ſingulares ca<g ref="char:EOLhyphen"/>ſus excogitare: &amp; ideò non poteſt ſufficienter per verba ſua exprime<g ref="char:EOLhyphen"/>re ea, quae conveniunt ad finem intentum: &amp; ſi poſſet Legiſlator omnes caſus conſiderare, non opor<g ref="char:EOLhyphen"/>teret ut omnes exprimeret propter confuſionem vitandam: ſed legem ferre deberet ſecundum ea, quae in pluribus accidunt. <hi>Ibid.</hi>
+               </note> yet were it not expedient
+(ſaith my Author) for the Common-wealth,
+that they ſhould multiply Lawes to ſuch a
+number, as the particular ſtating and regula<g ref="char:EOLhyphen"/>ting
+of all ſuch caſes would neceſſarily require.
+Confuſion in Lawes ought to bee avoyded,
+which yet could not be avoyded, if particular
+and expreſſe proviſion ſhould be made in them,
+for the regulation of all perſons, of what dif<g ref="char:EOLhyphen"/>ferent
+capacities, or conditions ſoever, under all poſſible occur<g ref="char:EOLhyphen"/>rences,
+in a due proportion to the common intereſt and benefit
+of men.</p>
+            <p>Theſe things conſidered,<note place="margin">Sect. 28.</note> evident it is, that there was never
+yet any Lawgiver amongſt men, who, underſtanding himſelfe,
+ever intended to impoſe any Law of a politique conſtitution upon
+men, without a reſerve for thoſe, on whom it was impoſed, to
+provide for themſelves, or for the publique good in caſes of ne<g ref="char:EOLhyphen"/>ceſſity,
+beſides, yea and againſt, the literall import of ſuch a Law.
+Therefore perill of life, which is the moſt confeſſed caſe of ne<g ref="char:EOLhyphen"/>ceſſity
+of all others, though it cannot claime exemption from
+under ſome of the Lawes of God (ſuch as were lately intimated)
+yet may it challenge this priviledge in reſpect of the Lawes of
+men. The reaſon of the difference hath been already in part ſig<g ref="char:EOLhyphen"/>nified,
+<pb n="24" facs="tcp:114758:15"/>
+but more compleatly is this: <hi>viz.</hi> becauſe thoſe Lawes of
+God, which we now ſpeake of, prohibiting ſuch actions, which
+are intrinſecally, and in their proper natures, as being contrary
+to the eſſentiall purity and holineſſe of God, and not onely be<g ref="char:EOLhyphen"/>cauſe
+they are prohibited, matter of defilement unto men, muſt
+needs bee of univerſall obligation, in as much as no neceſſity
+whatſoever can be greater then, nor indeed equall to, this, that
+a man refraines all ſuch actions, which are morally, eſſentially,
+and intrinſecally corrupting and defiling: whereas the civill or
+politique Lawes of men reſtraine onely ſuch actions, the forbea<g ref="char:EOLhyphen"/>rance
+whereof, as in ordinary caſes, it is commodious for the
+publique Intereſt, ſo in many others, poſſibly incident, would
+be detrimentous and deſtructive to it. In which reſpect all the
+neceſſity of obeying ſuch Lawes as theſe, may for the time, not
+onely be ballanced, but even ſwallowed up and quite aboliſhed
+by a greater neceſſity of diſobeying them. And concerning ſuch
+Lawes of God himſelfe, which we call typicall, or ceremoniall,
+becauſe they reſtraine onely ſuch actions, which are not intrin<g ref="char:EOLhyphen"/>ſecally,
+or eſſentially ſinfull, or defiling, as not being in them<g ref="char:EOLhyphen"/>ſelves
+repugnant to the holineſſe of God, but had the conſide<g ref="char:EOLhyphen"/>ration
+of ſinne put upon them by a Law, in reference to a parti<g ref="char:EOLhyphen"/>cular
+end; hence it commeth to paſſe, that God was graciouſly
+pleaſed, and judged it meet, to ſubject ſuch Lawes as theſe to the
+preſſing neceſſities of the outward man; or rather (indeed) to
+thoſe other Lawes of his, by which he commanded reliefe for
+them; as it is written; <hi>I will have mercy, and not ſacrifice.</hi> This
+by way of caution. But</p>
+            <p>Secondly,<note place="margin">Sect. 29.</note> Another thing, that (its like) will be objected, up<g ref="char:EOLhyphen"/>on,
+and againſt what hath been anſwered to the ſecond maine
+objection, is this: That the Parliament men diſturb'd in their
+way by the Army, at leaſt many of them, were Religious and
+conſcientious men; voted, and acted as they did, conſcientiouſly,
+really judging the courſe they ſteered, to be the ſafeſt and moſt
+direct for bringing the great Ship of the Common-wealth into
+the harbour of reſt and peace. And is it not contrary, as well
+to principles of reaſon, as Religion, that ſuch men upon ſo
+<hi>faire</hi> an account as this, ſhould be ſo <hi>fouly</hi> handled? To this
+I anſwer;</p>
+            <p>Firſt (not to queſtion that, which I make no queſtion but
+<pb n="25" facs="tcp:114758:15"/>
+will be ſufficiently proved in due time, I meane, the <hi>Religiouſneſſe</hi>
+of the Gentlemen ſpoken of) Religious men, are as well men,
+as religious: and conſequently, are not yet baptized into the
+ſpirit of that divine prerogative, which ſhould make them (in
+the Apoſtle <hi>James</hi> his phraſe) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Jam. 1. 13.</note> perſons <hi>un-temp<g ref="char:EOLhyphen"/>table
+by</hi> things that are <hi>evill.</hi> They that are capable of <hi>receiving</hi>
+gifts, or of any inordinacy in their deſires after earthly accom<g ref="char:EOLhyphen"/>modations,
+how wiſe, or juſt ſoever they be otherwiſe, are ſub<g ref="char:EOLhyphen"/>ject
+both to have their eyes blinded, and their words perverted. <hi>A
+guift</hi> (ſaith God himſelfe) <hi>doth blinde the eyes of the wiſe [i.</hi> of
+thoſe that are religiouſly wiſe, as well as others; the Scripture
+not often tearming any men <hi>wiſe,</hi> but upon that account] <hi>and
+pervert the words of the righteous.</hi>
+               <note n="a" place="margin">Deut 16. 19.</note> A <hi>guift,</hi> or any thing equi<g ref="char:EOLhyphen"/>valent
+to a <hi>guift,</hi> and that not onely after it is received, but much
+more whilſt it is yet deſired, and expected, is apt to have both
+theſe ſad operations even upon the beſt of men. For who can be
+better then thoſe whom <hi>wiſedome</hi> and <hi>righteouſneſſe</hi> joyne hand in
+hand to make excellent?</p>
+            <p>Secondly,<note place="margin">Sect. 30.</note> When men are religious onely to a mediocrity,
+and withall ſervile in their judgements to ſome principles, which
+are commonly and with great confidence and importunity ob<g ref="char:EOLhyphen"/>truded
+upon the conſciences of profeſſors, for ſacred Truths,
+and yet are extreamly diſcouraging, and full of enmity to a tho<g ref="char:EOLhyphen"/>rough,
+ſtable, and quiet dependence upon God, by being reli<g ref="char:EOLhyphen"/>gious
+upon ſuch tearmes as theſe, they become twofold more the
+children of feare, then otherwiſe they were like to be, and con<g ref="char:EOLhyphen"/>ſequently,
+ſo much the more capable and receptive of ſad and
+diſmall impreſſions from the World upon all occaſions. And
+it is not more commonly then truely ſaid;<note place="margin">Peſſimus Con<g ref="char:EOLhyphen"/>ſiliarius Ti<g ref="char:EOLhyphen"/>mor.</note> that <hi>Feare is a bad
+Counſellor.</hi>
+            </p>
+            <p>Thirdly,<note place="margin">Sect. 31.</note> When religious men ſinne againſt the common In<g ref="char:EOLhyphen"/>tereſt
+and liberties of a free borne Nation, and make one purſe
+with the knowne and thrice declared enemies of their Land and
+people, whether they doe it, with, or againſt, their judgements
+and conſciences, the Law of nature and neceſſity, cannot (for
+the preſent) ſtand to make, either a ſcrupulous inquiry after ſuch
+a difference, or a regular aſſignement of favour to the qualifying
+circumſtances of demerit; but cals, yea and cries out immediatly,
+and commands all men without exception, that have a prize in
+<pb n="26" facs="tcp:114758:16"/>
+their hand, to give it for the redemption of their Nation out of
+the hand of Oppreſſion and Tyranny. And when this Law hath
+been obeyed to the ſecuring of the Nation, ſhe preſently reſigneth,
+and this freely and willingly, all her authority and command,
+into the hand of poſitive and ſtanding Lawes, calculated for the
+ordinary poſture and ſtate of things, untill there be another
+cry of like danger in her eares. When theſe ſtanding Lawes come
+to reſume their authority and power; there will be an opportu<g ref="char:EOLhyphen"/>nity
+to inquire, if it ſhall be thought convenient, who ſinned,
+with, and who againſt, their conſciences: and their aſſeſments,
+which were we uniformly rated by the Law of neceſſity, may be
+reduced to tearmes of more equity by thoſe other lawes. But</p>
+            <p>Fourthly,<note place="margin">Sect. 32.</note> According to the Notion of that maxime in natu<g ref="char:EOLhyphen"/>rall
+Philoſophy,<note place="margin">Corruptio op<g ref="char:EOLhyphen"/>timi eſt peſſi<g ref="char:EOLhyphen"/>ma.</note> that errours of the beſt men, of worſt conſe<g ref="char:EOLhyphen"/>quence
+(in many caſes.) The <hi>digreſſions</hi> of men religious, are
+many times worſe, then the thorough <hi>diſcourſes</hi> of other men.
+When conſcience and concupiſcence meet (as oft they doe in reli<g ref="char:EOLhyphen"/>gious
+men) the conjunction is very fiery. It was the ſaying of
+<hi>Gregory</hi> long ſince, <hi>When men conceive of ſinne under the notion of a
+duty, there it is committed with an high hand and without feare.</hi>
+               <note n="a" place="margin">Cum vitiu<g ref="char:cmbAbbrStroke">̄</g> virtus putatur, culpa ſine me<g ref="char:EOLhyphen"/>ta cumulatur, Greg. de Pa<g ref="char:EOLhyphen"/>ſtor. cur. l. 3. c. 1.</note>
+Nor ever was (nor is ever like to bee) the perſecution of the
+Saints more grievous, then when thoſe that ſhall perſecute them,
+and <hi>put them to death, ſhall thinke that</hi> [therein] <hi>they doe God ſer<g ref="char:EOLhyphen"/>vice.</hi>
+               <note n="b" place="margin">Joh. 16. 2.</note> So that whereas the objection in hand plead's, on the
+behalfe of thoſe Parliament men, who were religious, that they
+followed the light and dictate of their judgements and conſcien<g ref="char:EOLhyphen"/>ces,
+in complying with the King and his complices; the truth
+is, that though it may reaſonably be thought ſo much the leſſe
+ſinful in them, if they did it upon ſuch tearms; yet was it a ground
+ſo much the more juſtifiable for the Army to proceed upon to the
+diſ-intereſſing of them, as they did. For when religious men
+breake out of the way of righteouſneſſe and truth, with the re<g ref="char:EOLhyphen"/>nitency
+and obmurmuration of their judgements and conſcien<g ref="char:EOLhyphen"/>ces,
+it is a ſigne that their judgements and conſciences are yet at
+liberty, and in a condition to reduce them. But when theſe are
+conſederate with their luſt, there is little hope of their repen<g ref="char:EOLhyphen"/>tance.
+But</p>
+            <p>Fiftly (and laſtly,<note place="margin">Sect. 33.</note> for this) whereas the objection intimates
+<pb n="27" facs="tcp:114758:16"/>
+ſome hard meaſure offered unto them, being men of conſcience,
+and acting according to their judgements, the truth is, that I
+know not how the Army could walke towards them with a ſof<g ref="char:EOLhyphen"/>ter
+foot, to ſecure the liberties of the Kingdome, together with
+their owne lives and eſtates, againſt the menaces of their judge<g ref="char:EOLhyphen"/>ments
+and conſciences, then they did.</p>
+            <p>A third grand Objection,<note place="margin">Sect. 34.</note> wherewith ſome encounter that
+action of the Army,<note place="margin">The third maine obje<g ref="char:EOLhyphen"/>ction.</note> hitherto juſtified, is this: they therein (ſay
+theſe men) made themſelves Covenant-breakers, and ſinned a<g ref="char:EOLhyphen"/>gainſt
+the Solemne Vow and Oath which they, or at leaſt ſome
+of them, ſware unto God <hi>with hands lifted up to Heaven,</hi> (if not
+with hearts alſo.) In this Covenant they promiſed and ſware,
+that they would, <hi>endeavour with their eſtates and lives mutually to
+preſerve the rights and priviledges of Parliaments,</hi> whereas by that
+violent diſmembring of the Parliament, they brake and trampled
+upon them. To this we anſwer (more briefly.)</p>
+            <p>Firſt, That moſt certaine it is, that it is no right or priviledge
+of Parliament to Vote or Act in oppoſition to the benefit and
+good of the Kingdome, and thoſe who have intruſted them. It
+is unpoſſible that any things that is ſinfull, ſhould be the right or
+priviledge of any perſon, or ſociety of men under Heaven. There<g ref="char:EOLhyphen"/>fore
+if the Army did nothing more, but onely reſtraine from
+acting in ſuch a way, they did not herein violate a Right or pri<g ref="char:EOLhyphen"/>viledge
+of Parliament.</p>
+            <p>If it be replyed,<note place="margin">Sect. 35.</note> that though it be no <hi>right or priviledge of Par<g ref="char:EOLhyphen"/>liament</hi>
+to Vote or Act contrary to their truſt; yet it is a <hi>right
+and priviledge</hi> belonging to this houſe, that, in caſe any of the
+Members ſhall at any time ſo act, or vote, they ſhould not bee
+queſtioned, or ſuffer for ſo doing; at leaſt not by any other
+power, but by that of the Houſe it ſelfe onely; To this alſo I
+anſwer.</p>
+            <p>1. By conceſſion, that this is indeed a <hi>right and priviledge of
+Parliament,</hi> taking the word <hi>Parliament</hi> in a due and proper ſig<g ref="char:EOLhyphen"/>nification;
+<hi>viz.</hi> for a Parliament conſiſting of a competent num<g ref="char:EOLhyphen"/>ber
+of men not dead to their truſt, who are in a capacity of
+faithfulneſſe and integrity to diſcharge the office and duty of a
+Parliament, in endeavouring at leaſt to relieve the preſſures and
+grievances of the people, to protect their liberties, &amp;c. It is the
+manner of the holy Ghoſt himſelfe in the Scripture, frequently
+<pb n="28" facs="tcp:114758:17"/>
+to deny the common Name of things, to ſuch particulars in eve<g ref="char:EOLhyphen"/>ry
+kinde, which are defective in thoſe properties for uſe and ſer<g ref="char:EOLhyphen"/>vice,
+which ſhould be found in them, and which are found in
+other particulars of the ſame kind. Thus <hi>Paul</hi> expreſſely, <hi>Hee is
+not a Jew which is one outwardly, neither is that circumciſion which
+is outward in the fleſh: But hee is a Jew which is one inwardly; and
+circumciſion is that of the heart in the Spirit, not in the letter, &amp;c.</hi>
+               <note n="a" place="margin">Rom. 2. 28, 29</note>. So
+elſewhere: <hi>when yee come together into one place, this is not to eate
+the Lords Supper</hi>
+               <note n="b" place="margin">1 Cor. 11. 20.</note> 
+               <hi>This</hi> is not, &amp;c. meaning, that as they went to
+worke, that which they did, deſerved not the Name, of an <hi>eating
+of the Lords Supper.</hi> Therefore</p>
+            <p>2. By way of exception,<note place="margin">Sect. 36.</note> I anſwer further, that if by <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi>
+be meant any number of men whatſoever, choſen by the
+people into Parliamentary truſts, and ſitting in that Houſe, where
+Parliaments (truly and properly ſo called) uſe to aſſemble about
+the great affaires of the Kingdome, whether theſe men, or the
+major part of them, love the intereſt of the Kingdome, and be
+cordially affected to the liberties of the people, or no, I know no
+ſuch <hi>right or priviledge of Parliament,</hi> as that ſpecified. A <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi>
+that is unuſefull and unſerviceable for Parliamentary ends,
+is no more a <hi>Parliament,</hi> then a dead man, is a man, or a Virgin
+defloured, a Virgin. And as a dead man hath no right or pri<g ref="char:EOLhyphen"/>viledge
+of a man (truly ſo called) belonging to him, unleſſe it be
+to be ſo ordered &amp; dealt with, that he may not be an annoyance
+or offence unto others: ſo neither doe I know any right or privi<g ref="char:EOLhyphen"/>ledge
+of a <hi>Parliament</hi> indeed appertaining to a <hi>Parliament</hi> politi<g ref="char:EOLhyphen"/>cally
+dead, and which is not animated with a ſpirit of faithful<g ref="char:EOLhyphen"/>neſſe
+to the publique, unleſſe it be to be ſo entreated and handled,
+that it may not deſtroy the publique Intereſt, or endammage
+their Truſtees (the people) in their liberties.<note place="margin">A terminis di<g ref="char:EOLhyphen"/>miuuentibus non valet ar<g ref="char:EOLhyphen"/>gumeutatio.</note> It is a rule in Lo<g ref="char:EOLhyphen"/>gicke;
+that an argument drawn from termes of diminution, is
+of no validity, or force. As for example, when a man is dead,
+it doth not follow; that becauſe he is a dead man, therefore he is
+a man, or hath the properties of a man, as that hee is rationall,
+riſible, or the like. By the reaſon which rules in this principle or
+maxime, our Saviour denyes that inference of the Jewes, who
+argued themſelves to be the children or ſeed of <hi>Abraham,</hi> becauſe
+they were his carnall ſeede, or came from him according to the
+fleſh. <hi>If yee were Abraham's children</hi> (ſaith hee to them) <hi>yee would
+<pb n="29" facs="tcp:114758:17"/>
+doe the workes of Abraham</hi>
+               <note n="a" place="margin">John 8. 39.</note>: implying, that becauſe they did not
+the workes of <hi>Abraham,</hi> they were not his children <hi>[viz.</hi> in that
+proper and emphaticall ſence, wherein the Scripture is ordinari<g ref="char:EOLhyphen"/>ly
+to be underſtood, when it ſpeaketh of <hi>Abrahams children,</hi> and
+of the great promiſes and priviledges belonging to them.) In like
+manner the Apoſtle <hi>Paul,</hi> when hee ſpeaks of the priviledges and
+bleſſedneſſe ſetled by promiſe upon <hi>Abraham</hi> and his ſeed, ſtill
+underſtands the word, ſeed, not in that diminutive or equivocall
+ſenſe, wherein it comprehendeth as well his <hi>carnall</hi> or wicked
+ſeede, as that of a more noble deſcent, but in that emphaticall,
+weighty,<note place="margin">Gal. 3. 7. 9. 16. 29.</note> and appropriate ſence, wherein it onely ſignifieth the
+<hi>children of Abraham</hi> indeed, <hi>i.</hi> ſpiritually ſuch, and who reſem<g ref="char:EOLhyphen"/>ble
+him in his faith and holineſſe.<note place="margin">Rom. 4. &amp;c.</note> See the Texts in the margent.
+After the ſame manner, when either the lawes or people of the
+Land, in their accuſtomed diſcourſe, (and conſequently the
+Solemn League and Covenant) ſpeake of <hi>rights and priviledges of
+Parliament,</hi> they (doubtleſſe) doe not take the word, <hi>Parliament</hi>
+in an equivocall and comprehenſive ſence, wherein it may be ex<g ref="char:EOLhyphen"/>tended
+to any thing, which in any ſence or conſideration may be
+called a <hi>Parliament,</hi> but in an emphatical &amp; reſtrained ſence, <hi>viz.</hi>
+as it ſignifieth a politicall body, conſiſtory, or court of men, cho<g ref="char:EOLhyphen"/>ſen
+by the people into Parliamentary Truſt, faithfully proſecu<g ref="char:EOLhyphen"/>ting
+and diſcharging the import of the Truſt committed to them.
+If this property be wanting in them, they are but a <hi>Parliament</hi> ſo
+called, not having the worth or conſideration, whereunto
+<hi>ſuch Rights and Priviledges</hi> which are called, <hi>Parliamentary,</hi> either
+according to principles of reaſon and equity, or according to
+the intention of the firſt Donors or founders of them, doe belong
+or appertaine. The premiſſes conſidered, evident it is, that the
+Army did not violate or breake any the <hi>rights and priviledges of
+Parliament,</hi> properly, or <hi>Covenantly</hi> ſo called, when they redu<g ref="char:EOLhyphen"/>ced
+the <hi>Parliament</hi> to the true nature, dignity, and honour of a
+<hi>Parliament;</hi> by ſecluding ſuch Members from it, who altered the
+property, and turn'd the glory of it into a lie.</p>
+            <p>2. Be it granted,<note place="margin">Sect. 3.</note> that the Army ſtood bound by their <hi>Cove<g ref="char:EOLhyphen"/>nant
+and Oath,</hi> to <hi>preſerve the rights and priviledges even of ſuch
+Parliaments</hi> as that was, which they divided, yet they ſtood
+bound alſo by the ſame <hi>Covenant and Oath,</hi> to ſuch a duty or en<g ref="char:EOLhyphen"/>gagement,
+the faithfull application of themſelves whereunto, in
+<pb n="30" facs="tcp:114758:18"/>
+the caſe in hand, did fairely both in the ſight of God, and men,
+diſcharge them from that other obligation: even as the duties of
+circumciſing,<note place="margin">Cùm duo praecepta co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>currunt, ma<g ref="char:EOLhyphen"/>jus debet ſer<g ref="char:EOLhyphen"/>vari: In ipſo Decalogo, cum videmus duo inter ſe praecepta co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>fligere et alte<g ref="char:EOLhyphen"/>rum ab altero impediri, il<g ref="char:EOLhyphen"/>lud, quod le<g ref="char:EOLhyphen"/>gis latoris ip<g ref="char:EOLhyphen"/>ſius ſententiâ, videbitur eſſe majus, praſer<g ref="char:EOLhyphen"/>ri debet. <hi>Pet. Mart. in 1 Sam. c.</hi> 21. 3.</note> and of ſacrificing, when the ſeaſons appointed for
+them by the law, fell on the Sabboth, priviledged thoſe from
+guilt in breaking the law of the Sabboth, who performed them
+on that day. It is a common rule avouched by the beſt of our
+Divines, and by the light of nature and reaſon it ſelfe, <hi>that when
+two duties or commands meete in ſuch a ſtreight or exigent of time, that
+they cannot both receive that honour of obſervance, which belongs un<g ref="char:EOLhyphen"/>to
+them, that which in the judgement of the Law-giver is the greater,
+ought to be obſerved, and the leſſer to give place, for the time.</hi> Now
+in that <hi>Covenant and Oath</hi> which the objection ſpeaketh of, there
+are theſe two duties or engagements (amongſt others) impoſed
+upon thoſe, who take it. 1. An <hi>endeavour to preſerve the rights
+and priviledges of Parliament.</hi> 2. The like <hi>endeavour to preſerve THE
+LIBERTIES OF THE KINGDOME.</hi> The Cove<g ref="char:EOLhyphen"/>nant
+in both theſe, at in all other particulars contained in it,
+the takers of it ſtand bound by the expreſſe tenour thereof (in the
+ſixth Article) to <hi>promote according to their power againſt all lets and
+impediments whatſoever: and what they are not able THEM<g ref="char:EOLhyphen"/>SELVES
+TO S<g ref="char:V">Ʋ</g>PPRESSE or overcome, they ſhall reveal
+and make knowne, that it may be timely prevented or removed: all this
+they ſhall doe as in the ſight of God.</hi> Which laſt words (compared
+with the words mentioned from the third Article) cleerely im<g ref="char:EOLhyphen"/>port,
+that the Covenanters ſtand bound, to <hi>promote the liberties
+of the Kingdome againſt all lets and impediements</hi> even in <hi>Parliaments</hi>
+themſelves, if any be ſound there: yea and further ſuppoſe, that
+they may <hi>THEMSELVES S<g ref="char:V">Ʋ</g>PPRESSE and overcome
+what</hi> they <hi>are able (viz.</hi> of whatſoever oppoſeth the intent &amp; end
+of the <hi>Covenant,</hi> which doubtleſſe, was the benefit and good of
+the Kingdomes) eſpecially when they know not where, or
+to whom <hi>to reveale</hi> or <hi>make knowne</hi> the obſtructions they meete
+with, in order to any probable or likely <hi>prevention, or removall</hi> of
+them, in due <hi>time.</hi> Therefore if the duty of <hi>preſerving</hi> or <hi>promoting
+the peace and liberties of the Kingdome,</hi> be greater, then that of <hi>pre<g ref="char:EOLhyphen"/>ſerving
+the rights and priviledges of the Parliament;</hi> and the Armie
+could not performe the former, without making ſuch a breach as
+they did, upon the latter; evident it is, that in making this
+breach they are innocent and blameleſſe. For the latter of theſe,
+<pb n="31" facs="tcp:114758:18"/>
+it is as cleare as the Sun from what was laid downe <hi>Sect.</hi> 21. that
+had not the Army interpoſed to ſuch a breach of rights and pri<g ref="char:EOLhyphen"/>viledges,
+at is charged upon them, the peace of the Kingdome,
+had (in all humane likelyhood) been ſwallowed up in blood,
+and the liberties, in oppreſſion and tyranny. Concerning the
+former, there is full as little, or rather leſſe, queſtion. That com<g ref="char:EOLhyphen"/>mon
+maxime, which rules eſpecially in politicall affaires, <hi>Bonum
+quo communius, cò melius,</hi> the more common or extenſive a good
+is, the greater or better it is, doth ſufficiently confirme it. T<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>preſervation</hi> of the <hi>liberties of the</hi> whole <hi>Kingdome,</hi> is without
+peradventure a greater duty, then the maintenance or <hi>preſerva<g ref="char:EOLhyphen"/>tion</hi>
+of the <hi>liberties</hi> or priviledges onely of a part of it; eſpecially
+of ſuch a part, which, for number, is inconſiderable. Beſides,
+that which gives a kinde of ſacred inviolableneſſe unto <hi>the rights
+and priviledges of Parliament,</hi> is that typicall relation which they
+beare to the <hi>rights, priviledges,</hi> and liberties, of the Kingdome,
+and Common-wealth. Now types are alwayes inferiour to the
+things imported, and repreſented by them, as ſervants are unto
+their Maſters; and when they occaſion, or threaten any da<g ref="char:EOLhyphen"/>mage,
+to their anti-tipes, they may and ought ſo far to ſuffer a de<g ref="char:EOLhyphen"/>facement,
+as the braſen ſerpent was beaten to powder by <hi>Hezechiah,</hi>
+when it occaſioned Idolatry againſt him, whom it repreſented.</p>
+            <p>Thirdly (and laſtly) ſuppoſe there had beene no expreſſe
+clauſe in the Covenant, injoyning the <hi>preſervation of the liberties of
+the Kingdome,</hi> as well as of <hi>the rights and priviledges of Parliament,</hi>
+yet had the Army a more then warrant ſufficient to have ſtood
+up for the <hi>preſervation</hi> of them, as they did, and that without a<g ref="char:EOLhyphen"/>ny
+breach of <hi>Covenant.</hi> Men by the tenure of their very lives and
+beings, which they hold of the God of nature, their great Cre<g ref="char:EOLhyphen"/>ator,
+ſtand bound to obey the Lawes of nature, and that againſt
+all other obligations or bonds whatſoever: yea the truth is, that
+all other obligations ceaſe in the preſence of this, all Lawes,
+Covenants, and engagements beſides, being homagers unto it.
+Now there is no Law of nature that ſpeakes more plainely, or
+diſtinctly, then this; that the ſtrong ought to ſtand by the
+weake in caſes of extremity, and danger imminent, eſpecially
+when reliefe cannot reaſonably be expected from other hands.
+Nor is it credible that either the Covenant-makers, or the Cove<g ref="char:EOLhyphen"/>nant-takers,
+did thereby intend, either in the generall, any diſ<g ref="char:EOLhyphen"/>obligation
+<pb n="32" facs="tcp:114758:19"/>
+from the Lawes of nature, or from duties, otherwiſe
+then by the ſaid Covenant, lying upon men: nor in particular,
+any ſuch <hi>preſervation of the rights and priviledges of Parliament,</hi>
+which ſhould be inconſiſtent with <hi>the liberties of the Kingdomes.</hi>
+               <note place="margin">Scire leges, inquiunt Juriſ<g ref="char:EOLhyphen"/>conſulti, non eſt verba ea<g ref="char:EOLhyphen"/>rum tenere, ſed vim ac po<g ref="char:EOLhyphen"/>teſtatem, quia prior atque potentior eſt, quàm vox, mens dicentis.</note>
+and it is a common rule amongſt Lawyers, for regulating the in<g ref="char:EOLhyphen"/>terpretation
+of Lawes, as likewiſe of all other Declarations of
+men by words, whatſoever; that <hi>the minde or intent of the ſpeaker,
+is to be preferred before, and is more potent</hi> [and conſequently ra<g ref="char:EOLhyphen"/>ther
+to be obeyed] <hi>then his words.</hi>
+            </p>
+            <p>Nor doth the Act of the Army in that diſſociation of the Par<g ref="char:EOLhyphen"/>liament
+under debate, colour, or ſhadow (in the leaſt) with
+the act of the King, breaking into their Houſe, and demanding
+which,<note place="margin">Hug. Grot. in Mat. 12. 3.</note> and how many of their Members he pleaſed, to be ſacri<g ref="char:EOLhyphen"/>ficed
+upon the ſervice of his will. For</p>
+            <p>Firſt, It was more civility in the Army, to deny admiſſion, or
+entrance into the Houſe, unto thoſe Members, whoſe ſitting
+there they judg'd of deſperate conſequence unto the Kingdome,
+then it would have been, by force and violence to have pull'd
+them out from thence; which was the Kings act, <hi>in actu ſignato</hi>
+(as the Schoole men diſtinguiſh) though not <hi>in actu exercito,</hi>
+the providence of God and men comporting to prevent this.
+And we know the old ſaying,
+<q>
+                  <l>Turpius ejicitur, quàm non admittitur, hoſpes.</l>
+               </q> 
+               <hi>i.</hi>
+               <q>
+                  <l>A gueſt we like not, 'tis more commendable</l>
+                  <l>To keep, then caſt, out from our doores and table.</l>
+               </q>
+            </p>
+            <p>Secondly, The Members which the King ſought to lay hold
+of, and to diſparliament, were ſuch, who <hi>THEN</hi> were (or
+at leaſt were ſo looked upon by him) as the greateſt Patrons and
+Protectors of the Kingdomes Intereſt, and who, like the <hi>cloudy
+and fiery pillar</hi> of old, kept the <hi>Egyptian</hi> prerogative from com<g ref="char:EOLhyphen"/>ming
+at the <hi>Iſraelitiſh</hi> liberty, to deſtroy it. Whereas the Mem<g ref="char:EOLhyphen"/>bers,
+who were denyed the Houſe by the Army, were turn'd
+Proſelytes to prerogative, and had renounced the Law and Do<g ref="char:EOLhyphen"/>ctrine
+of the peoples liberties. Therefore</p>
+            <p>Thirdly (and laſtly) the cleare tendency of the Act of the
+King, was the violation of the Law of nature, by ſeeking to ad<g ref="char:EOLhyphen"/>vance
+the will and power of one, or of ſome few, above, and a<g ref="char:EOLhyphen"/>gainſt,
+the peace and comforts of many, whereas the act of the
+Army held a <hi>loyall</hi> conformity with the <hi>royall</hi> Law, the face of it
+<pb n="33" facs="tcp:114758:19"/>
+being manifeſtly ſet to ſubject the power, intereſt and will of one,
+unto their lawfull Superiour, the juſt Intereſt or comfort of ma<g ref="char:EOLhyphen"/>ny.
+Therefore to goe about either to juſtifie the Kings act, by the
+act of the Army, or to condemne the act of the Army, by the
+Kings, is as if I ſhould undertake to prove, that the night is
+lightſome, becauſe the day is ſo, or that the day is darke, becauſe
+the night is ſo.</p>
+            <p>A fourth objection in the mouthes of ſome,<note place="margin">Sect. 40.</note> againſt which
+they conceive the Army cannot be juſtified in the buſineſſe in que<g ref="char:EOLhyphen"/>ſtion,<note place="margin">The fourth grand Obje<g ref="char:EOLhyphen"/>ction.</note>
+is, that all ſuch actions are contrary unto, and condem<g ref="char:EOLhyphen"/>ned
+by the Lawes of the Land. But to this objection, at leaſt to
+the weight and ſubſtance of it, we have already anſwered over
+and over; and particularly have aſſerted and proved, Firſt, that
+all humane Laws and conſtitutions, are but of a like ſtructure and
+frame, with the Ceremoniall Lawes of old made by God him<g ref="char:EOLhyphen"/>ſelfe,
+which were all made with knees, to bend to the Law of na<g ref="char:EOLhyphen"/>ture,
+and neceſſity. Secondly, That it is to be preſumed, that the
+intent of all Law-givers amongſt men, is, notwithſtanding any,
+or all their Lawes ſeemingly commanding the contrary, to leave
+an effectuall doore alwayes open for the common good, and in
+caſes of neceſſity, to be provided for by any perſon, or perſons,
+whatſoever. Thirdly, that all Lawes binde onely according
+to the regular and due intentions of the Law-makers.
+Fourthly, that the Lawes of nature, and neceſſity, are as well the
+Lawes of the Land, as thoſe commonly ſo called. Fifthly, that
+when any two Lawes encounter one the other in any ſuch exi<g ref="char:EOLhyphen"/>gent,
+or ſtraite of time, that both of them cannot be obeyed,
+the Law of inferiour conſequence ought to give place to that of
+ſuperior, and the duty injoyned in this, to be done, though that
+required in the other, be left undone. We now adde,</p>
+            <p>Firſt, That we charitably ſuppoſe, that there is no ſuch Law
+of the Land, which prohibiteth or reſtraineth any man, or for
+of men, from being Benefactors to the publique; eſpecially from
+preſerving the publique liberties in caſes of neceſſity, when they
+ſtand <hi>in extremâ tegulâ,</hi> and are in imminent danger of being
+oppreſſed for ever, there being no likelyhood of reliefe from any
+other hand. And if there be no ſuch Law as this, there is none
+that reacheth the caſe of the Army, no not in the criticall or cha<g ref="char:EOLhyphen"/>racteriſticall
+circumſtance of it.</p>
+            <p>
+               <pb n="34" facs="tcp:114758:20"/>
+Secondly, That in caſe there be any ſuch Law as this, that it
+is a meere nullity, and the matter of it no more capable of the
+forme of a Law, i. of an obliging power, then tymber or ſtone
+is capable of information by a reaſonable ſoule, which according
+to vulgar Phyloſophie, rather then the truth is, the proper forme
+of a man. The Lawes of nature and of common equity, are the
+foundation of all Lawes (truly and properly ſo called) and
+whatſoever venditateth it ſelfe under the name or notion of a
+Law, being built beſides this foundation, wanteth the eſſence
+and true nature of a Law, and ſo can bee but equivocally
+ſuch.</p>
+            <p>Thirdly,<note place="margin">Sect. 42.</note> If there be a Law, which maketh force, offered to
+Magiſtrates, or perſons in Authority, in any kinde, or any in<g ref="char:EOLhyphen"/>terrupting
+or diſturbing them in their way, puniſhable; yet nei<g ref="char:EOLhyphen"/>ther
+doth this evince the act of the Army, we ſo much ſpeake of,
+to have been contrary to the Lawes. The reaſon is, becauſe it is the
+conſtant genius and manner of Law-givers and of Lawes, to lay
+down only the general rule, and to conceal the exceptions; which
+they ſtill ſuppoſe, are, or may be. Now the exception doth not
+breake the Rule, nor is it properly contrary to the rule, I meane,
+ſo as to evince a nullity, or crookedneſſe in it, onely it is not
+comprehended within the verge or compaſſe of the rule. <hi>All
+caſes</hi> (ſaith the <hi>Roman</hi> Oratour and Stateſman) <hi>are not provided
+for by written Lawes, but onely thoſe which are plaine, the excep<g ref="char:EOLhyphen"/>tions
+being left out,</hi> or omitted.<note n="a" place="margin">Non om<g ref="char:EOLhyphen"/>nia ſcriptis, ſed quaedam, quae perſpicua ſunt, tacitis exceptionibus caventur. Ci<g ref="char:EOLhyphen"/>cero. de In<g ref="char:EOLhyphen"/>vent. l. 2.</note> Conſonant hereunto is that
+of <hi>Grotius: In Lawes prohibitorie</hi> (ſaith he) <hi>the words are com<g ref="char:EOLhyphen"/>monly
+larger, then the minde or intent of the Law.</hi>
+               <note n="b" place="margin">In legibus prohibitorijs plerunque verba latius patent, quàm mens ipſa le<g ref="char:EOLhyphen"/>gis. in Mat. 12. 3.</note> Upon
+which occaſion, that vertue, which the <hi>Grecians</hi> call <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+we, <hi>Equitie,</hi> appeares to be moſt neceſſary in a Judge, or any
+other, to whom it ſhall appertaine to expound Lawes; the pro<g ref="char:EOLhyphen"/>perty
+hereof being (as <hi>Ariſtotle</hi> long ſince obſerved) <hi>to rectifie</hi>
+[or right ſtate] <hi>the Law,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>where it is defective, thorow the gene<g ref="char:EOLhyphen"/>rality
+of it. By rectifying the Law,</hi> he meanes nothing elſe, but a
+limiting and reſtraining the binding force of it to caſes inten<g ref="char:EOLhyphen"/>ded
+by the Law-makers; together with an exemption of ſuch
+caſes from it, which upon grounds of reaſon and equity it may
+be conceived never were intended by them to be concluded in it.
+So that in ſome caſes to preſſe and urge the rigorous extent of
+the letter of the Law, is to turne the waters of the Law into
+<pb n="35" facs="tcp:114758:20"/>
+blood, and to overturne the true intent and meaning both of the
+Law, and Lawgiver, at once. Such urgings and preſſings of Laws
+without due limitation, gave occaſion to that Proverbiall ſay<g ref="char:EOLhyphen"/>ing
+in <hi>Tullie;</hi>
+               <note place="margin">
+                  <hi>Summum jus, ſumma injuria.</hi> Idem facit, ac is qui legem tranſ<g ref="char:EOLhyphen"/>greditur, qui ſaevâ verborum prerogativâ fraudulenter contrà juris ſententiam abutitur. God. 1. tit. 1. le. 5.</note> that <hi>the Higheſt justice, is the
+Higheſt injuſtice.</hi> And the Imperiall Law it ſelf
+makes him no better, then a tranſgreſſor of
+the Law, <hi>who fraudulently abuſeth the ſterne
+prerogative of words contrary to the ſenſe and mean<g ref="char:EOLhyphen"/>ing
+of the Law.</hi> And elſewhere: <hi>no reaſon of
+Law, or faireneſſe of equity will indure it, that
+thorough hard conſtruction [of words] we ſhould
+turne thoſe things againſt the benefit of men, which
+were wholeſomely brought in [amongſt them] for
+their profit and good.</hi>
+               <note n="b" place="margin">Nulla juris ratio, aut aequi<g ref="char:EOLhyphen"/>tatis benignitas patitur, ut quae ſalubriter pro hominum utilitate introducuntur, ea nos duriore interpretatione, contrà ipſorum commodum producamus ad ſe<g ref="char:EOLhyphen"/>veritatem. Digeſt. l. 1. tit. 3. de leg: leg 24. Sect. nulla.</note> Doubtleſſe they ſtum<g ref="char:EOLhyphen"/>ble
+at this ſtone, who pretend to finde any ſuch
+Law amongſt the Lawes of the Land, by
+which the Army ſhould be denyed a liberty, or
+lawfulneſſe of power to ſecure the peace and liberties of the
+Nation, by ſuch a method and courſe, as they ſteered, neceſſity
+lifting up her voyce, and crying unto them with ſuch importu<g ref="char:EOLhyphen"/>nity,
+to doe it. For (as the afore-named <hi>Grotius</hi> well obſerveth)
+<hi>amongſt all the exceptions, which are tacitly included in Lawes,
+there is none, either more uſually, or more juſtly admitted, then that
+which ariſeth from neceſſity.</hi>
+               <note n="c" place="margin">Inter om<g ref="char:EOLhyphen"/>nes autem ex<g ref="char:EOLhyphen"/>ceptiones quae tacitè inſunt legibus, nulla eſt aut juſti<g ref="char:EOLhyphen"/>or, aut recep<g ref="char:EOLhyphen"/>tior, quàm ea<g ref="char:EOLhyphen"/>quae fluit ex neceſſitate. Hug. Grot. u<g ref="char:EOLhyphen"/>bi ſuprà.</note> By what we have argued, and re<g ref="char:EOLhyphen"/>lated
+from learned and judicious men in this point, evident it
+is, both by the light of reaſon, as alſo from the teſtimony of ve<g ref="char:EOLhyphen"/>ry
+competent witneſſes, that whatſoever <hi>the Lawes of the Land</hi>
+be, the Army could be no tranſgreſſors of any of them in ſtand<g ref="char:EOLhyphen"/>ing
+up, and interpoſing as they did, to vindicate the publique
+liberties of their Nation, in ſuch a caſe of neceſſity, as that be<g ref="char:EOLhyphen"/>fore
+them.</p>
+            <p>A fift Objection,<note place="margin">Sect. 43.</note> wherewith ſome ſtrengthen and comfort
+themſelves againſt the deportment of the Army,<note place="margin">The fift great Objection.</note> hitherto juſti<g ref="char:EOLhyphen"/>fied,
+is this. The example of the fact muſt needs be of very dan<g ref="char:EOLhyphen"/>gerout
+conſequence to the Kingdome. For by the ſame reaſon,
+and upon the ſame account, that the Army oppoſed the preſent
+Magiſtracy, and proceedings of the publique affaires amongſt
+us, any other party of men, making, and finding themſelves
+ſtrong enough for the undertaking, may at any time attempt
+<pb n="36" facs="tcp:114758:21"/>
+the like diſturbance, and confuſion: and ſo the Kingdome ſhall
+be alwayes in danger of the like combuſtions and broyles. I
+anſwer,</p>
+            <p>Firſt, That the lawfulneſſe or goodneſſe of an action is not
+to be meaſured or judged, by what <hi>may</hi> follow upon it, by way
+of ſequell or event, but by what is <hi>like</hi> to follow upon it, and
+this not by accident, or by miſconſtruction, but according to
+the native tendency, proper ducture, and inclination of it. It is
+wittily ſaid by one, that <hi>he that goeth about to read the badneſſe,
+or goodneſſe of an action by the event, bolds the wrong end of the booke
+upward. Chriſt</hi> did not amiſſe in giving a ſop to <hi>Judas,</hi> though
+preſently upon the receiving of it, the <hi>Devill</hi> entred into him,
+and prevail'd with him to betray him very ſuddenly. Nor
+would it argue any thing amiſſe in what the Army did, though
+never ſo many troubles, and tumultuous riſings of people ſhould
+breake out upon pretence of it. The reaſon is, becauſe, as the
+grace of God it ſelfe, though a thing of moſt incomparable
+ſweetneſſe and worth, may nevertheleſſe be (yea, and daily is)
+<hi>turned into wantonneſſe,</hi> and much ſin and wickedneſſe occaſioned
+by it in the World; ſo, and much more, may the moſt worthy
+actions and ſervices of men, bee compelled to pretence the
+worſt and vileſt deedes that lightly can bee perpetrated.
+Therefore,</p>
+            <p>Secondly,<note place="margin">Sect. 44.</note> Suppoſe the Army ſhould have apprehended, not
+onely a poſſibility, but even a probability, that that fact of theirs
+we ſpeake of, would beget out of its owne likeneſſe, and occa<g ref="char:EOLhyphen"/>ſion
+diſturbances of quite another genius and ſpirit from it ſelfe;
+yet might it have been ſinfull and unworthy in them notwith<g ref="char:EOLhyphen"/>ſtanding,
+to ſtand ſtill, and not to have acted as they did. The
+reaſon is, becauſe when ſeed-time is come, men muſt not <hi>obſerve
+the windes;</hi> nor <hi>regard the clouds,</hi> when it is time to <hi>reape.</hi> As
+men muſt <hi>not doe evill, that good may come of it,</hi> ſo neither muſt they
+forbeare the doing of good, <hi>becauſe</hi> evill <hi>may</hi> come of it. Men
+are bound to ſow the ſeed of good actions, though they had
+ſome cauſe to feare that an increaſe of Dragons would ſpring
+from it. But,</p>
+            <p>Thirdly,<note place="margin">Sect. 45.</note> That no action of any bad conſequence to the King<g ref="char:EOLhyphen"/>dome,
+can truly plead legitimacy of deſcent from this of the
+Army, is evident thus. Where there is not a concurrence of the
+<pb n="37" facs="tcp:114758:21"/>
+ſame circumſtance (I meane, either formally, or equivalently
+the ſame) there can be no place for exemplarineſſe, or likeneſſe
+of action. And when there is, or ſhall be, the like politicall
+conſtellation with that, under which the Army acted, the like
+action cannot in the direct and native tendency of it, be of any
+ill conſequence to the Kingdome. The killing of a man by <hi>Ti<g ref="char:EOLhyphen"/>tius</hi>
+being aſſaulted, and in his owne defence, is no ground, ſo
+much as in colour or pretence for <hi>Sempronius</hi> to flay a man tra<g ref="char:EOLhyphen"/>velling
+peaceably by him on the way.</p>
+            <p>Fourthly,<note place="margin">Sect. 46.</note> Nor is it like, that the action of the Army wee
+ſpeake of, ſhould by any back-doore of miſconſtruction whatſo<g ref="char:EOLhyphen"/>ever,
+let in miſchiefe or diſturbance into the Kingdome; conſi<g ref="char:EOLhyphen"/>dering
+that it was performed and done, in due order to ſuch a
+proviſionall ſettlement of affaires in the Kingdome, that as far
+as is poſſible, there may, neither occaſion be given, on the one
+hand, nor opportunity left, on the other, to any party or num<g ref="char:EOLhyphen"/>ber
+of men, to attempt any interrupture, diſtraction, or di<g ref="char:EOLhyphen"/>ſturbance
+therein. Therefore, to pretend or plead, that the ſaid
+action of the Army, is like to cauſe future trouble or diſturbance
+in the Nation, is as if a man ſhould ſay, that to build an houſe
+ſtrong, wals, doores, and windows, were of dangerous conſe<g ref="char:EOLhyphen"/>quence
+to invite theeves to aſſault, and break into it.</p>
+            <p>Fifthly (and laſtly) The action of the Army is not diſpa<g ref="char:EOLhyphen"/>rageable
+by any poſſibility or likelyhood of evill,<note place="margin">Sect. 47.</note> that it may
+occaſionally bring upon the Kingdome afterwards, more then
+the preſervation of a man from imminent death is reproveable,
+becauſe by it he is occaſionally expoſed to dye another time:
+They who conceive that it had been better for the Kingdome,
+and more conducing to the peace of it in after times, that the
+Army ſhould have ſate ſtill, and not interpoſe, as they did, ar<g ref="char:EOLhyphen"/>gue
+at no better rate of reaſon, then I ſhould doe, in caſe I ſhould
+perſwade my friend being dangerouſly ſick, not to uſe the helpe
+of a Phyſitian for his recovery, becauſe in caſe he did recover, his
+recovery might prove a probable occaſion of more ſickneſſe unto
+him afterwards.
+<q>
+                  <l>—Quis furor eſt, ne moriare, mori?</l>
+               </q> i.
+<q>
+                  <l>What madneſſe is't, through feare of future death,</l>
+                  <l>To wiſh my ſelfe depriv'd of preſent breath?</l>
+               </q>
+            </p>
+            <p>
+               <pb n="38" facs="tcp:114758:22"/>
+If the Army had not applyed that plaiſter of fteele to the
+boyle, or plague-ſore of the Kingdome, which they did, there
+had been little, or no hope of the recovery thereof, from that
+politicall death, the ſymptomes whereof, had ſo ſtrongly ſeized
+the vitall parts of it. So that though the cure, in proceſſe of
+time ſhould prove an occaſion of a relapſe, or bring the like di<g ref="char:EOLhyphen"/>ſtemper
+againe upon it; yet, as <hi>Hezechiah</hi> was not without
+cauſe thankfull unto God, who made an addition of fifteene
+yeares unto his life, after his ſickneſſe unto death, though this
+addition did not excuſe him from dying afterwards. So ſhall
+the people of the Nation have juſt cauſe of thankfulneſſe un<g ref="char:EOLhyphen"/>to
+the Army for thoſe dayes of freedome and peace, be they
+fewer, or be they more, which they ſhall enjoy, though ſlave<g ref="char:EOLhyphen"/>ry
+and oppreſſion ſhould returne upon them afterwards like
+<hi>clouds after the raine.</hi>
+            </p>
+            <p>Another Objection,<note place="margin">Sect. 48.</note> deemed by ſome impregnable, and a<g ref="char:EOLhyphen"/>bove
+anſwer,<note place="margin">The ſixt main Objection.</note> is framed by way of inference from <hi>Rom.</hi> 13. 1, 2.
+<hi>Let every ſoule be ſubject to the higher powers—Whoſoe<g ref="char:EOLhyphen"/>ver
+therefore reſiſteth the power, reſiſteth the Ordinance of God:
+and they that reſiſt, ſhall receive to themſelves damnation.</hi> From
+hence the Army are concluded Tranſgreſſors, and liable to con<g ref="char:EOLhyphen"/>demnation,
+becauſe they <hi>reſiſted the higher powers;</hi> and therein,
+<hi>the Ordinance of God.</hi> But with this Objection we are not be<g ref="char:EOLhyphen"/>hinde
+hand, having given a ſufficient anſwer unto it already,
+the ſubſtance of it being nothing but what the ſecond Obje<g ref="char:EOLhyphen"/>ction
+offered. Notwithſtanding becauſe we deſire to give heap<g ref="char:EOLhyphen"/>ed
+meaſure of ſatisfaction, eſpecially to ſuch arguments, which
+pretend to the Scriptures; we thought it not amiſſe to lay the
+words themſelves before you, out of which the objection is
+fram'd, and ſo to give in the ſurpluſſage of a further anſwer un<g ref="char:EOLhyphen"/>to
+it. Therefore</p>
+            <p>1. We anſwer, by diſtinguiſhing (with the Miniſters of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi>
+in their briefe <hi>Theſes de Majeſtatis jure)</hi> betweene the <hi>power</hi> of
+Magiſtrates, and the <hi>abuſe</hi> of this power <hi>The power</hi> (ſay they)
+<hi>is from God,</hi> and ſo his <hi>ordinance,</hi> but not the <hi>abuſe</hi> of it. <hi>Yea, hee
+no whit more allowes the abuſe of a lawfull power in one Tyrant, then</hi>
+[the uſe of] <hi>an unlawfull power in another</hi>
+               <note n="a" place="margin">Secundò i<g ref="char:EOLhyphen"/>gitur diſtin<g ref="char:EOLhyphen"/>guendum in<g ref="char:EOLhyphen"/>ter poteſtate<g ref="char:cmbAbbrStroke">̄</g> ipſam, &amp; po<g ref="char:EOLhyphen"/>teſtatis abu<g ref="char:EOLhyphen"/>ſum: eam, non autem hunc, ordinavit De<g ref="char:EOLhyphen"/>us Imò non magis ab eo probatur abu<g ref="char:EOLhyphen"/>ſus poteſtatis legitimae in u<g ref="char:EOLhyphen"/>no tyranno, quàm pote<g ref="char:EOLhyphen"/>ſtas illegitima in altera.</note>. So that if it were the
+<hi>abuſe</hi> only of a lawfull <hi>power,</hi> which the Army <hi>reſiſted,</hi> they <hi>reſi<g ref="char:EOLhyphen"/>ſted
+<pb n="39" facs="tcp:114758:22"/>
+no Ordinance of God,</hi> nor are they, for ſuch an act, made lia<g ref="char:EOLhyphen"/>ble
+to any <hi>condemnation</hi> by the Scripture mentioned. Now that
+it was not any <hi>power,</hi> but the <hi>abuſe of pewer,</hi> which the Army <hi>reſi<g ref="char:EOLhyphen"/>ſted,</hi>
+hath been more then once, clearly enough evicted in this A<g ref="char:EOLhyphen"/>pologie;
+and is further evidenced from hence; no other <hi>power,</hi>
+but that which is Parliamentary, can be pretended to have been
+<hi>reſiſted</hi> by them, in that act ſo often mentioned. But that they
+did not <hi>reſiſt</hi> this <hi>power,</hi> but the <hi>abuſe</hi> of it onely, appeares; 1. Be<g ref="char:EOLhyphen"/>cauſe
+this <hi>power</hi> remaines at this day quiet and undiſturb'd, in the
+midſt of them. Yea 2. Their great care and deſire is, to ſettle
+this <hi>power</hi> upon better terms for the due government of the Nati<g ref="char:EOLhyphen"/>on,
+then thoſe, on which it hath been continued hitherto.</p>
+            <p>If it be ſaid,<note place="margin">Sect. 49.</note> that that the Parliamentary <hi>power</hi> now in being, in
+no lawfull <hi>power,</hi> becauſe it is under force; I anſwer, 1. that it
+is no more under force, then it was, whilſt all the Members
+now ſecluded, had free liberty to ſit and vote in that Houſe. The
+ſame Army, which is now pretended to over-awe, or keep under
+force the preſent Parliament, was as neer, and did as much to
+the Parliament then, in matter of force or awe, as now it is, or
+doth. Therefore if it were a lawfull <hi>power</hi> then, it is no leſſe law<g ref="char:EOLhyphen"/>full
+now. 2. Nor is the Parliament at this day under any more
+force, by reaſon of the Army, then it was for the ſpace of about
+two years together before, by reaſon of the continuall tumultu<g ref="char:EOLhyphen"/>ous
+engagements and practices, both in City and Countrey.
+Nay 3. I verily believe, that if the Members of Parliament now
+ſitting, would pleaſe to declare themſelves upon the point, they
+would acknowledg and confeſſe, that they are as free from force,
+or feare (at leaſt in reſpect of the Army) now, as they have beene
+at any time ſince their firſt meeting in their Houſe. But to the
+maine objection in hand, I anſwer.</p>
+            <p>2.<note place="margin">Sect. 50.</note> The <hi>ordinance of God</hi> in Magiſtraticall power, being the ade<g ref="char:EOLhyphen"/>quate
+foundation, upon which that <hi>ſubjection,</hi> or obedience,
+which he requireth of men unto it by his command, is, and ought
+to be built; evident it is, that this <hi>ſubjection</hi> is not commanded or
+required to this <hi>power,</hi> beyond the <hi>ordinance of God</hi> in it; i. unto a<g ref="char:EOLhyphen"/>ny
+act, or injunction of men inveſted with this <hi>power,</hi> which
+ſwerveth from, eſpecially which oppoſeth, this <hi>ordinance of God</hi>
+(in the end and intent of it.) Now the end and intent of the <hi>ordi<g ref="char:EOLhyphen"/>nance
+<pb n="40" facs="tcp:114758:23"/>
+of God</hi> in magiſtraticall <hi>power,</hi> being (as the Apoſtle cleer<g ref="char:EOLhyphen"/>ly
+aſſerteth, <hi>verſ.</hi> 4.) the <hi>good</hi> of thoſe that are ſubject to it <hi>[For
+he is the Miniſter of God to thee, for good]</hi> it is evident yet further,
+that there is no <hi>ſubjection</hi> commanded by God unto any <hi>higher
+powers,</hi> further, or otherwiſe, then they act and quit themſelves
+in a due order and proportion to the <hi>good</hi> of men. And where
+<hi>ſubjection</hi> is not commanded, <hi>reſiſtance</hi> is not prohibited; and
+conſequently, is not unlawfull. <hi>For where there is no law, there
+is no tranſgreſſion.</hi> Therefore if thoſe <hi>higher powers,</hi> the <hi>reſiſtance</hi>
+whereof the objection chargeth upon the Army, were found act<g ref="char:EOLhyphen"/>ing,
+and apparantly bent to act on, in a way of manifeſt prejudice
+and oppoſition to the <hi>good</hi> of thoſe, from whom they expected
+ſubjection (which I preſume, is little queſtionable to him; that
+hath read and weighed the premiſſes) and conſequently, quite be<g ref="char:EOLhyphen"/>ſides
+the end and purport of the <hi>ordinance of God,</hi> the Army, in
+that <hi>reſiſtance</hi> which they made againſt them, tranſgreſſed no law,
+or precept of God.</p>
+            <p>Nor doth it follow from any thing that had been ſaid, that a
+Magiſtrate for every errour in the adminiſtration of his power,
+may be depoſed from his place of Magiſtracy by any party of
+men: but this is that, which only followes, that, when the ſu<g ref="char:EOLhyphen"/>preame
+Magiſtracy of a Kingdome ſhall be ſo farre, whether
+blinded in judgement, or corrupted in affection, that ſuch coun<g ref="char:EOLhyphen"/>ſels
+and actings put forth themſelves in them from time to time,
+which are apparantly detrimentous and deſtructive to the gene<g ref="char:EOLhyphen"/>rall
+and great intereſt of the due liberties of the people, reaſona<g ref="char:EOLhyphen"/>ble
+ſecurity may be taken of them by any party of this people,
+having the opportunity, and all others wanting it, that they ſhall
+proceed and act no further in ſuch a way.</p>
+            <p>3. (And laſtly) that <hi>reſiſting the ordinance of God</hi> in the <hi>Higher
+Powers,</hi> which the Apoſtle (in the Scripture in hand) <hi>condemneth,</hi>
+is not a deteyning of men in Authority, though with a ſtrong
+hand, from doing miſchiefe in their places; but either (as was
+formerly ſaid) a refuſing obedience unto their lawful commands,
+or awards: or rather a complotting or attempt-making to ſhake
+off the yoke of all obedience unto civill Magiſtracy. <hi>Calvin</hi> up<g ref="char:EOLhyphen"/>on
+the place ſeemes to incline to the latter; <hi>Paraeus,</hi> unto the for<g ref="char:EOLhyphen"/>mer,
+whoſe words are theſe: <hi>Yet every diſobedience is not to be ter<g ref="char:EOLhyphen"/>med
+<pb n="41" facs="tcp:114758:23"/>
+rebellion, or reſiſtance; but only that, which out of malice is practi<g ref="char:EOLhyphen"/>ſed,
+or admitted, contrary to the lawes, by thoſe, who refuſe to ſatisfie
+the law, by ſuffering ſuch puniſhment, as they have deſerved</hi>
+               <note n="a" place="margin">Non quaevis tamen in obe<g ref="char:EOLhyphen"/>dientia, dicen<g ref="char:EOLhyphen"/>da eſt rebel<g ref="char:EOLhyphen"/>lio, vel reſiſte<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tia; ſed ea ſo<g ref="char:EOLhyphen"/>lum, quae con<g ref="char:EOLhyphen"/>tra leges, ex malitiâ admit<g ref="char:EOLhyphen"/>titur ab ijs, qui per poena<g ref="char:cmbAbbrStroke">̄</g> commeritam legibus ſatis<g ref="char:EOLhyphen"/>facere detre<g ref="char:EOLhyphen"/>ctant.</note>. If ei<g ref="char:EOLhyphen"/>ther
+of theſe interpretations of the place be admitted, certain it
+is, that it reflects no bad colour at all upon the action of the Ar<g ref="char:EOLhyphen"/>my;
+who neither refuſed obedience in what they did to any
+command (much leſſe to any lawfull command) of their Superi<g ref="char:EOLhyphen"/>ours,
+nor yet declin'd the giving of ſatisfaction unto the lawer,
+by refuſing to ſuffer any puniſhment, which they had deſerved.
+<hi>Pareus</hi> layes downe this poſition upon the place, and maintaines
+it by argument; v z. <hi>That it is lawfull for ſubjects, though meere
+private men, in caſe a Tyrant ſhall aſſault or ſet upon them, as Thieves
+uſe to doe, and offer them violence, in caſe they want opportunity to
+implore the ordinary power for their reliefe, and can by no other means
+eſcape the danger, to defend themſelves and theirs, in the caſe of preſent
+danger, againſt this Tyrant, as againſt a private robber upon the high
+way</hi>
+               <note n="b" place="margin">Subditis ta<g ref="char:EOLhyphen"/>men merè pri<g ref="char:EOLhyphen"/>vatis, ſi tyran<g ref="char:EOLhyphen"/>nus tanquam latro et graſſa<g ref="char:EOLhyphen"/>tor, aut ſtupra<g ref="char:EOLhyphen"/>tor, in ipſos faciat impetu<g ref="char:cmbAbbrStroke">̄</g>, et ipſi nec po<g ref="char:EOLhyphen"/>teſtatem ordi<g ref="char:EOLhyphen"/>nariam implo<g ref="char:EOLhyphen"/>rare nec aliâ ratione effu<g ref="char:EOLhyphen"/>gere periculu<g ref="char:cmbAbbrStroke">̄</g> posſint, in pre<g ref="char:EOLhyphen"/>ſenti periculo ſe et ſuos con<g ref="char:EOLhyphen"/>trà tyrannum, ficut contrà privatumgraſ<g ref="char:EOLhyphen"/>ſatorem de<g ref="char:EOLhyphen"/>fendere licet.</note>.</p>
+            <p>But concerning the true ſence of the place,<note place="margin">Sect. 53.</note> 
+               <hi>Calvin's</hi> apprehen<g ref="char:EOLhyphen"/>ſions
+are of beſt comportance with the words; which properly
+and primarily ſpeake of magiſtraticall power or Authority in the
+abſtract, and this under ſuch a circumſcription and conſiderati<g ref="char:EOLhyphen"/>on
+onely as it proceeds from, and is authorized by God, and not
+of the perſons of Magiſtrates at all, otherwiſe then they admini<g ref="char:EOLhyphen"/>ſter
+this power in a regular and due order to the end intended
+by God in it, which is (as hath beene ſhewed from <hi>verſ.</hi> 4.) the
+<hi>good</hi> of thoſe, that live under it. Firſt, he doth not ſay, <hi>let every
+ſoule be ſubject to the higher</hi> Magiſtrates, but, <hi>to the higher powers.</hi>
+2. Nor doth he ſay, <hi>There is no</hi> Magiſtrate, but of God; but, <hi>there
+is no power but of God.</hi> Nor 3. doth he ſay, <hi>the</hi> Magiſtrates <hi>that are,</hi>
+but, <hi>the powers that are, are ordained of God.</hi> Nor 4. <hi>Whoſoeer ac<g ref="char:EOLhyphen"/>ſiſteth</hi>
+the Magiſtrate, but, <hi>whoſoever reſiſteth the power, reſiſteth the
+ordinance of God: and they that reſiſt</hi> [viz. <hi>the power,</hi> not the perſon]
+<hi>ſhall receive to themſelves damnation,</hi> 5. He demands, <hi>Wilt thou then
+not be affraid of the power?</hi> not, of the Ruler or Magiſtrate. <hi>Chry<g ref="char:EOLhyphen"/>ſoſtome</hi>
+takes ſpeciall notice of theſe expreſſions, and thereupon
+commentarieth the place, thus: <hi>What ſayeſt thou</hi> [Paul.] <hi>Is then e<g ref="char:EOLhyphen"/>very
+Ruler ordeyned by God? No</hi> (ſaith he) <hi>I ſay not ſo: nor doe I now
+ſpeake of particular Rulers,</hi> or <hi>Magiſtrates, but of the thing</hi> [or,
+<pb n="42" facs="tcp:114758:24"/>
+matter] <hi>it ſelfe</hi> [1. of the order, or power of ruling] <hi>For that
+there ſhould be powers</hi> [or Magiſtracy] <hi>and that ſome ſhould rule,
+and ſome be ruled, and that all things ſhould not
+runne looſely and hand over head, or the people bee
+like the waves</hi> [of the Sea] <hi>carryed hither and
+thither, I affirme it to he the worke of the wiſedome
+of God.</hi>
+               <note n="a" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </note> 
+               <hi>Pareus</hi> himſelfe likewiſe carryeth
+the words directly to the ſame point: Hee
+<hi>names powers</hi> (ſaith hee) <hi>rather then Kings,
+Princes,</hi> &amp;c. <hi>becauſe he would bee underſtood to
+ſpeake, not ſo much of the perſons, as of the order</hi>
+[or ordinance it ſelfe of ruling] <hi>For in the per<g ref="char:EOLhyphen"/>ſons</hi>
+[of Rulers] <hi>vice oft times, and cauſes of
+not obeying, are found: therefore he would have
+the powers, to be differenced from the perſons.</hi>
+               <note n="b" place="margin">Vocat au<g ref="char:EOLhyphen"/>tem poteſtates potius, quàm Reges, Princi<g ref="char:EOLhyphen"/>pes, &amp;c. ut non tamde perſoins, quàm de ordi<g ref="char:EOLhyphen"/>ne ipſo loqui intelligatur. Nam in perſo<g ref="char:EOLhyphen"/>nis ſaepe ſunt vitia &amp; caufa non obedien<g ref="char:EOLhyphen"/>di: ideò à per<g ref="char:EOLhyphen"/>ſonis diſcerni vult poteſta<g ref="char:EOLhyphen"/>tes.</note>
+            </p>
+            <p>It is true, the Apoſtle names <hi>Rulers,</hi> ver. 3. where he ſaith,
+<hi>Rulers are not a terrour to good workes, but to the evill:</hi> And <hi>ver.</hi> 4.
+of the Magiſtrate or Ruler he ſaith, that <hi>hee is the Miniſter of
+God to thee for Good;</hi> and afterwards, that <hi>he is a revenger to ex<g ref="char:EOLhyphen"/>ecute
+wrath upon him that doth evill.</hi> But evident it is, that in
+theſe paſſages, hee ſpeakes of Rulers and Magiſtrates not ſimply,
+or at large, but under the preciſe conſideration of perſons exer<g ref="char:EOLhyphen"/>ciſing
+the power, which they have received, in a due ſubordi<g ref="char:EOLhyphen"/>nation
+unto God, and with a ſingle eye to the procurement of
+that <hi>good,</hi> which God intended unto thoſe, who are to obey,
+in his <hi>ordination</hi> of ſuch <hi>powers.</hi> So that nothing can be more
+cleere, then that the adequate ſcope of the Apoſtle, in the Scrip<g ref="char:EOLhyphen"/>ture
+before us, was to perſwade <hi>Chriſtians</hi> to owne, and to ſub<g ref="char:EOLhyphen"/>ject
+themſelves unto, civill Authority, as the ordinance of God,
+ſo farre,<note place="margin">Sect. 54.</note> and in ſuch caſes, as it ſhould be adminiſtred by the per<g ref="char:EOLhyphen"/>ſons
+inveſted in it, in a regular and due proportion to the be<g ref="char:EOLhyphen"/>nefit
+and good of thoſe. <hi>i.</hi> of thoſe communities of men re<g ref="char:EOLhyphen"/>ſpectively,
+who live under them, and from whom obedience and
+ſubjection are, upon ſuch an account, due unto them. This ſup<g ref="char:EOLhyphen"/>poſed,
+we may ſafely, and without the leaſt occaſion of fcruple,
+conclude, that there is nothing applyable in the Scripture in
+hand, to the eaſe of the Army hither to argued; unleſſe (haply)
+it ſhould be ſuppoſed (and the ſuppoſition will not be altoge<g ref="char:EOLhyphen"/>ther
+<pb n="43" facs="tcp:114758:24"/>
+without ground) that the Apoſtle inforcing ſubjection
+unto civill Authority, meerely as, or becauſe, <hi>the ordinance</hi> of
+God, and as adminiſtred according to the gracious intentions
+of the founder and ordainer of it, tacitly, and in a conſequen<g ref="char:EOLhyphen"/>tiall
+way, implyeth a liberty in men to decline this ſubjection,
+when the adminiſtrations of it are irregular, and the gracious
+intentions of God violated in them. For in many caſes, when
+an action is preſſed in the nature of a duty, upon a ſpeciall con<g ref="char:EOLhyphen"/>ſideration
+or ground, the conſideration failing, the action
+loſeth the nature and relation of a duty. Now if this ſuppoſition
+be admitted, it is a cleare caſe, that the Scripture under debate,
+is altogether with, and not at all againſt, the Army.</p>
+            <p>I know nothing of moment,<note place="margin">Sect. 55.</note> that can be oppoſed againſt the
+lawfulneſſe of the action, hitherto apologiſed and juſtified in
+theſe papers, beyond what hath been already bought and ſold
+(I meane, urged, and anſwered) at ſufficient rates. The law<g ref="char:EOLhyphen"/>fullneſſe
+of the action we ſpeake of, being ſuppoſed, the honour
+and worth of it are of much more eaſie demonſtration. For
+what better ſavour can a Chriſtianly-heroique Spirit ſpread a<g ref="char:EOLhyphen"/>broad
+of it ſelfe, then when men ſhall put their lives in their
+hand, and in this poſture ſtand up to take Lyons by the beards,
+when they are ready to teare in peeces, and devouce the Sheepe
+of the fold? to attempt the wreſting of an Iron Sceptre out of
+thoſe hands, which were now lifting it up to breake a poore
+Nation in peecs <hi>like a potters veſſell?</hi> What the Army hath done
+in this behalfe, calleth to minde the unparallelable example of
+the Lord <hi>Jeſus Chriſt,</hi> bleſſed for ever, who <hi>deſcended into the
+lower parts of the Earth,</hi> went downe into the chambers of death,
+from thence to bring up with him a loſt World. It was the ſay<g ref="char:EOLhyphen"/>ing
+of <hi>Plato,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> that <hi>to doe good to as many as we can, is to be like unto
+God.</hi> But to doe good to as many as we can, as well enemies, as
+friends, by an expoſall of our owne lives unto death for the ac<g ref="char:EOLhyphen"/>compliſhment
+of it, is a lineament of that face of divine good<g ref="char:EOLhyphen"/>neſſe,
+which <hi>Plato</hi> (it is like) never ſaw. It was the manner of
+almoſt all Nations (as the <hi>Roman</hi> Orator obſerveth) to place
+the Aſſertors of their Countries liberties, next to the immortall
+Gods themſelves, at the Table of honour. And I make no que<g ref="char:EOLhyphen"/>ſtion,
+but when the Inhabitants of this Nation ſhall have dranke
+<pb n="44" facs="tcp:114758:25"/>
+a while of the ſweet waters of that Well of liberty, which the
+Army have dig'd and opened with their Swords, after it had
+been for a long time ſtop'd and fil'd up with earth by the <hi>Phili<g ref="char:EOLhyphen"/>ſtims,</hi>
+they wil generally recover of that Mallgnant feaver, which
+now diſtempereth many of them, and be in a good poſture of
+ſobriety and ſtrength to <hi>riſe up early,</hi> and call their Benefactors,
+<hi>Bleſſed.</hi> However, the <hi>good will of him that dwelt in the Buſh,</hi>
+be upon the head of ſuch Warriors, who purſue that bleſſed
+victory of <hi>overcomming evill,</hi> by doing <hi>good;</hi> and according to
+the method of the warfare of Heaven, feeke to <hi>reconcile</hi> a Na<g ref="char:EOLhyphen"/>tion
+<hi>unto themſelves,</hi> by <hi>not imputing</hi> their unthankfulneſſe, or
+other their evill intreaties unto them, but in the midſt of their
+owne ſufferings from them, ſet themſelves with heart and ſoule
+to ſet them at liberty from their Oppreſſort.</p>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>Faulit eſcaped.</head>
+            <p>
+               <hi>P. 11. l. 19. for</hi> palbably, <hi>r.</hi> palpably. <hi>p. 19. l. 28. for</hi> theſe, <hi>r.</hi> their.
+<hi>p. 26. l. 11. dele,</hi> we. <hi>p. 35. l. 35. for</hi> dangerout, <hi>r.</hi> dangerous.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:114758:25"/>
+         </div>
+      </back>
+   </text>
+</TEI>
